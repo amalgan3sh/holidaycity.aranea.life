@@ -41,5 +41,11 @@ unset($uri, $path);
 
 // Otherwise, we'll load the index file and let
 // the framework handle the request from here.
-require_once $_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'index.php';
+$documentRoot = $_SERVER['DOCUMENT_ROOT'];
+$publicIndexPath = $documentRoot . DIRECTORY_SEPARATOR . 'index.php';
+
+// Replace 'public/' with an empty string
+$basePath = str_replace(DIRECTORY_SEPARATOR . 'public', '', $publicIndexPath);
+
+require_once $basePath;
 // @codeCoverageIgnoreEnd
