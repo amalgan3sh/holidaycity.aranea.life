@@ -1,179 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="author" content="modern houses - Workdo.">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
-    <title>modern houses - Workdo</title>
-    <meta name="description" content="modern houses - Workdo.">
-    <meta name="keywords" content="modern houses - Workdo.">
-    <link rel="shortcut icon" href="assets/images/favicon.png">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-    <link rel="stylesheet" href="assets/css/main-style.css">
-    <link rel="stylesheet" href="assets/css/responsive.css">
-</head>
-
-<body class="theme-bg">
-    <!--header start here-->
-    <header class="site-header header-style-one">
-        <div class="main-navigationbar">
-            <div class="container">
-                <div class="navigationbar-row d-flex align-items-center">
-                    <div class="menu-items-col">
-                        <div class="mobile-menu">
-                            <button class="mobile-menu-button">
-                                <div class="one"></div>
-                                <div class="two"></div>
-                                <div class="three"></div>
-                            </button>
-                        </div>
-                        <ul class="main-nav">
-                            <li class="menu-lnk has-item">
-                                <a href="#">Apartments </a>
-                                <div class="mega-menu menu-dropdown">
-                                    <div class="mega-menu-container container">
-                                        <ul class="row">
-                                            <li class="col-md-3 col-12">
-                                                <ul class="megamenu-list arrow-list">
-                                                    <li class="list-title"><span>Men's Footware</span></li>
-                                                    <li><a href="product.html">All</a></li>
-                                                    <li><a href="product.html">Casual Shoes</a></li>
-                                                    <li><a href="product.html">Sports Shoes</a></li>
-                                                    <li><a href="product.html">Sandals &amp; Floaters</a></li>
-                                                    <li><a href="product.html">Slippers &amp; Flip Flops</a></li>
-                                                    <li><a href="product.html">Formal Shoes</a></li>
-                                                    <li><a href="product.html">Ethnic Shoes</a></li>
-                                                    <li><a href="product.html">Active Footwear</a></li>
-                                                    <li><a href="product.html">Combo Footwear</a></li>
-                                                    <li><a href="product.html">Shoe Care</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="col-md-3 col-12">
-                                                <ul class="megamenu-list arrow-list">
-                                                    <li class="list-title"><span>Bags, Suitcases &amp; Luggage</span>
-                                                    </li>
-                                                    <li><a href="product.html">All</a></li>
-                                                    <li><a href="product.html">Backpacks</a></li>
-                                                    <li><a href="product.html">Suitcases &amp; Trolleys</a></li>
-                                                    <li><a href="product.html">Dufflebags</a></li>
-                                                    <li><a href="product.html">Rucksacks</a></li>
-                                                    <li><a href="product.html">Handbags</a></li>
-                                                    <li><a href="product.html">Slingbags</a></li>
-                                                    <li><a href="product.html"> Women's Clutches &amp; Wallets</a></li>
-                                                    <li><a href="product.html">Messenger Bags</a></li>
-                                                    <li><a href="product.html">Travel Accessories</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="col-md-3 col-12">
-                                                <ul class="megamenu-list arrow-list">
-                                                    <li class="list-title"><span>Women's </span></li>
-                                                    <li><a href="product.html">All</a></li>
-                                                    <li><a href="product.html">Women Tops</a></li>
-                                                    <li><a href="product.html">Women Dresses</a></li>
-                                                    <li><a href="product.html">Women T-shirts &amp; Polo T-shirts</a>
-                                                    </li>
-                                                    <li><a href="product.html">Women Jeans</a></li>
-                                                    <li><a href="product.html">Women Nighties &amp; Night Dresses</a>
-                                                    </li>
-                                                    <li><a href="product.html">Women Nightsuit</a></li>
-                                                    <li><a href="product.html">Women Track Pants</a></li>
-                                                    <li><a href="product.html">Women Trouser</a></li>
-                                                    <li><a href="product.html">Women Jumpsuit </a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="col-md-3 col-12">
-                                                <a href="product.html">
-                                                    <img src="assets/images/menu-product.png" alt="product">
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="menu-lnk">
-                                <a href="about.html">Our Team</a>
-                            </li>
-
-                            <li class="menu-lnk">
-                                <a href="contact-us.html">Contact</a>
-                            </li>
-                            <li class="menu-lnk has-item">
-                                <a href="javascript:void(0)">Pages</a>
-                                <div class="menu-dropdown">
-                                    <ul>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="faqs.html">FAQs</a></li>
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="article.html">Article</a></li>
-                                        <li><a href="product-list.html">Collection</a></li>
-                                        <li><a href="contact-us.html">Contact</a></li>
-                                    </ul>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="logo-col">
-                        <a href="index.html">
-                            <img src="assets/images/logo.png" alt="">
-                        </a>
-                    </div>
-                    <ul class="menu-right d-flex  justify-content-end align-items-center">
-                        <li class="wishlist-header">
-                            <a href="wishlist.html">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="19" height="15" viewBox="0 0 19 15"
-                                    fill="none">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                        d="M10.2652 3.27138C9.94867 3.57191 9.44883 3.57191 9.13227 3.27138L8.56579 2.73359C7.90275 2.10413 7.00702 1.71979 6.01712 1.71979C3.98382 1.71979 2.3355 3.35042 2.3355 5.36191C2.3355 7.29031 3.39072 8.88266 4.91407 10.191C6.43873 11.5004 8.26161 12.3689 9.35075 12.8121C9.57848 12.9048 9.81902 12.9048 10.0467 12.8121C11.1359 12.3689 12.9588 11.5004 14.4834 10.191C16.0068 8.88265 17.062 7.2903 17.062 5.36191C17.062 3.35042 15.4137 1.71979 13.3804 1.71979C12.3905 1.71979 11.4948 2.10413 10.8317 2.73359L10.2652 3.27138ZM9.69875 1.56567C8.74325 0.658564 7.446 0.101074 6.01712 0.101074C3.08013 0.101074 0.699219 2.45643 0.699219 5.36191C0.699219 10.5161 6.40193 13.3624 8.72827 14.3091C9.35478 14.5641 10.0427 14.5641 10.6692 14.3091C12.9956 13.3624 18.6983 10.5161 18.6983 5.36191C18.6983 2.45643 16.3174 0.101074 13.3804 0.101074C11.9515 0.101074 10.6543 0.658564 9.69875 1.56567Z"
-                                        fill="#FFE7D9" />
-                                </svg>
-                                <span class="count">12</span>
-                            </a>
-                        </li>
-                        <li class="profile-header">
-                            <a href="my-account.html">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="15" height="18" viewBox="0 0 15 18" fill="none">
-                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M7.5 9.81818C4.27834 9.81818 1.66667 12.3824 1.66667 15.5455V17.1818C1.66667 17.6337 1.29357 18 0.833333 18C0.373096 18 0 17.6337 0 17.1818V15.5455C0 11.4786 3.35786 8.18182 7.5 8.18182C11.6421 8.18182 15 11.4786 15 15.5455V17.1818C15 17.6337 14.6269 18 14.1667 18C13.7064 18 13.3333 17.6337 13.3333 17.1818V15.5455C13.3333 12.3824 10.7217 9.81818 7.5 9.81818Z" fill="#545454"></path>
-                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M7.5 8.18182C9.34095 8.18182 10.8333 6.71657 10.8333 4.90909C10.8333 3.10161 9.34095 1.63636 7.5 1.63636C5.65905 1.63636 4.16667 3.10161 4.16667 4.90909C4.16667 6.71657 5.65905 8.18182 7.5 8.18182ZM7.5 9.81818C10.2614 9.81818 12.5 7.62031 12.5 4.90909C12.5 2.19787 10.2614 0 7.5 0C4.73858 0 2.5 2.19787 2.5 4.90909C2.5 7.62031 4.73858 9.81818 7.5 9.81818Z" fill="#545454"></path>
-                                </svg>
-                            </a>
-                        </li>
-                        <li class="contact-header">
-                            <a href="tel:+12 002-224-111">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="15" viewBox="0 0 16 15"
-                                    fill="none">
-                                    <g clip-path="url(#clip0_5_3411)">
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M0.5 1.875C0.5 0.839465 1.33947 0 2.375 0H7.375C8.41053 0 9.25 0.839466 9.25 1.875V13.125C9.25 14.1605 8.41053 15 7.375 15H2.375C1.33947 15 0.5 14.1605 0.5 13.125V1.875ZM2.375 1.25C2.02982 1.25 1.75 1.52982 1.75 1.875V13.125C1.75 13.4702 2.02982 13.75 2.375 13.75H7.375C7.72018 13.75 8 13.4702 8 13.125V1.875C8 1.52982 7.72018 1.25 7.375 1.25H2.375ZM3.625 1.875C3.27982 1.875 3 2.15482 3 2.5C3 2.84518 3.27982 3.125 3.625 3.125H6.125C6.47018 3.125 6.75 2.84518 6.75 2.5C6.75 2.15482 6.47018 1.875 6.125 1.875H3.625ZM4.875 11.875C4.52982 11.875 4.25 12.1548 4.25 12.5C4.25 12.8452 4.52982 13.125 4.875 13.125C5.22018 13.125 5.5 12.8452 5.5 12.5C5.5 12.1548 5.22018 11.875 4.875 11.875Z"
-                                            fill="#FFE7D9" />
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M13.2068 3.91045C13.4633 3.67953 13.8585 3.70033 14.0894 3.9569L13.6249 4.37501C14.0894 3.9569 14.0894 3.9569 14.0894 3.9569L14.0907 3.95829L14.0924 3.9602L14.0971 3.96557L14.1118 3.98242C14.1239 3.99634 14.1403 4.01561 14.1604 4.03998C14.2006 4.08869 14.256 4.15799 14.3214 4.24581C14.4519 4.42098 14.6243 4.67246 14.7966 4.98365C15.1373 5.59885 15.4999 6.48682 15.4999 7.50001C15.4999 8.51319 15.1373 9.40116 14.7966 10.0164C14.6243 10.3276 14.4519 10.579 14.3214 10.7542C14.256 10.842 14.2006 10.9113 14.1604 10.96C14.1403 10.9844 14.1239 11.0037 14.1118 11.0176L14.0971 11.0344L14.0924 11.0398L14.0907 11.0417L14.09 11.0425C14.09 11.0425 14.0894 11.0431 13.6249 10.625L14.0894 11.0431C13.8585 11.2997 13.4633 11.3205 13.2068 11.0896C12.9506 10.859 12.9295 10.4647 13.1593 10.2081L13.16 10.2072M13.16 10.2072L13.166 10.2004C13.1723 10.1931 13.1827 10.1808 13.1968 10.1638C13.2249 10.1298 13.2672 10.077 13.3189 10.0075C13.4228 9.86803 13.563 9.66378 13.7031 9.41074C13.9874 8.89746 14.2499 8.22293 14.2499 7.50001C14.2499 6.77708 13.9874 6.10255 13.7031 5.58928C13.563 5.33623 13.4228 5.13198 13.3189 4.99248C13.2672 4.92297 13.2249 4.87019 13.1968 4.83617C13.1827 4.81917 13.1723 4.80691 13.166 4.79964L13.1598 4.79252C12.9291 4.53594 12.9503 4.14128 13.2068 3.91045M13.1598 4.79252L13.1592 4.79184L13.1598 4.79252ZM13.1598 4.79252L13.1592 4.79184L13.1598 4.79252Z"
-                                            fill="#FFE7D9" />
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M10.6831 5.80806C10.9271 5.56398 11.3229 5.56398 11.5669 5.80806L11.125 6.25C11.5669 5.80806 11.5669 5.80806 11.5669 5.80806L11.5679 5.80904L11.5691 5.81026L11.5723 5.81342L11.5811 5.82253C11.5882 5.82983 11.5975 5.83958 11.6088 5.85163C11.6312 5.87567 11.6616 5.90911 11.6972 5.95068C11.7679 6.03316 11.8623 6.15102 11.9575 6.29394C12.1345 6.55944 12.375 6.99964 12.375 7.5C12.375 8.00036 12.1345 8.44056 11.9575 8.70606C11.8623 8.84898 11.7679 8.96684 11.6972 9.04932C11.6616 9.09089 11.6312 9.12432 11.6088 9.14837C11.5975 9.16042 11.5882 9.17017 11.5811 9.17747L11.5723 9.18658L11.5691 9.18974L11.5679 9.19096L11.5674 9.19148C11.5674 9.19148 11.5669 9.19194 11.1387 8.76372L11.5669 9.19194C11.3229 9.43602 10.9271 9.43602 10.6831 9.19194C10.439 8.94786 10.439 8.55214 10.6831 8.30806L11.125 8.75C10.6831 8.30806 10.6831 8.30806 10.6831 8.30806L10.6823 8.30881L10.6818 8.30935C10.6818 8.30935 10.682 8.30914 10.6831 8.30806C10.6851 8.3059 10.6891 8.30174 10.6949 8.29548C10.7067 8.2829 10.7252 8.26263 10.7481 8.23583C10.7946 8.1816 10.8565 8.10415 10.9175 8.01269C11.053 7.80944 11.125 7.62464 11.125 7.5C11.125 7.37536 11.053 7.19056 10.9175 6.98731C10.8565 6.89585 10.7946 6.8184 10.7481 6.76417C10.7252 6.73737 10.7067 6.7171 10.6949 6.70453C10.6891 6.69826 10.685 6.69397 10.6829 6.69181C10.6819 6.69074 10.6813 6.6902 10.6813 6.6902L10.6823 6.69119L10.6829 6.69181C10.439 6.44772 10.439 6.05207 10.6831 5.80806Z"
-                                            fill="#FFE7D9" />
-                                    </g>
-                                    <defs>
-                                        <clipPath id="clip0_5_3411">
-                                            <rect width="15" height="15" fill="white" transform="translate(0.5)" />
-                                        </clipPath>
-                                    </defs>
-                                </svg>
-                                <span>
-                                    Support 24/7:
-                                    <b>+12 002-224-111</b>
-                                </span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </header>
     <!--header end here-->
     <div class="home-wrapper">
         <section class="main-home-first-section padding-bottom ">
@@ -203,12 +28,10 @@
                                                     <rect x="31.5" y="0.5" width="37" height="31" rx="15.5"
                                                         transform="rotate(90 31.5 0.5)" stroke="#FFE7D9" />
                                                 </svg>
-                                                Modern houses <br> for the few
+                                                Welcome to 
+                                                <br> Aranea Platform
                                             </a>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.
-                                                Lorem Ipsum has been the industry's standard dummy text ever since the
-                                                1500s.</p>
+                                            <p>Nestled in the heart of Kerala, often referred to as "God's Own Country," Aranea Platform is dedicated to fostering collaboration and innovation. Our mission is to create a seamless environment that supports collaboration between various stakeholders, including corporations, ventures, and strategic partners.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -225,20 +48,15 @@
                                         </div>
                                         <div class="home-left-content">
                                             <a href="#CategorySec" class="subtitle">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="38"
-                                                    viewBox="0 0 32 38" fill="none">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="38" viewBox="0 0 32 38" fill="none">
                                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                                         d="M16.0013 8C11.9512 8 8.66797 11.2832 8.66797 15.3333V22.6667C8.66797 26.7168 11.9512 30 16.0013 30C20.0514 30 23.3346 26.7168 23.3346 22.6667V15.3333C23.3346 11.2832 20.0514 8 16.0013 8ZM10.5013 15.3333C10.5013 12.2958 12.9637 9.83333 16.0013 9.83333C19.0389 9.83333 21.5013 12.2958 21.5013 15.3333V22.6667C21.5013 25.7042 19.0389 28.1667 16.0013 28.1667C12.9637 28.1667 10.5013 25.7042 10.5013 22.6667V15.3333ZM16.0013 18.0833C15.495 18.0833 15.0846 17.6729 15.0846 17.1667V14.4167C15.0846 13.9104 15.495 13.5 16.0013 13.5C16.5076 13.5 16.918 13.9104 16.918 14.4167V17.1667C16.918 17.6729 16.5076 18.0833 16.0013 18.0833Z"
                                                         fill="#FFE7D9" />
-                                                    <rect x="31.5" y="0.5" width="37" height="31" rx="15.5"
-                                                        transform="rotate(90 31.5 0.5)" stroke="#FFE7D9" />
+                                                    <rect x="31.5" y="0.5" width="37" height="31" rx="15.5" transform="rotate(90 31.5 0.5)" stroke="#FFE7D9" />
                                                 </svg>
-                                                Modern houses <br> for the few
+                                                Discover <br> The Nest Holiday City
                                             </a>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.
-                                                Lorem Ipsum has been the industry's standard dummy text ever since the
-                                                1500s.</p>
+                                            <p>Welcome to The Nest Holiday City, a serene living environment designed for senior couples, individuals, and young retirees. Nestled in the heart of Kerala, The Nest offers personalized care and professional support, ensuring a high quality of life for our residents.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -248,36 +66,37 @@
                     <div class="home-slider-right-col">
                         <div class="swiper home-right-slider">
                             <div class="swiper-wrapper">
-                                <div class="swiper-slide home-right-item">
-                                    <div class="home-product-content">
-                                        <a href="#CategorySec" class="btn-sroller"><svg xmlns="http://www.w3.org/2000/svg" width="31" height="46" viewBox="0 0 31 46" fill="none">
+                            <div class="swiper-slide home-right-item">
+                                <div class="home-product-content">
+                                    <a href="#CategorySec" class="btn-sroller">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="31" height="46" viewBox="0 0 31 46" fill="none">
                                             <g clip-path="url(#clip0_34247_3940)">
-                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4984 14.5C15.8896 14.5 16.2068 14.8171 16.2068 15.2083L16.207 29.046L17.824 27.3816C18.0966 27.101 18.545 27.0945 18.8256 27.3671C19.1062 27.6396 19.1127 28.0881 18.8401 28.3687L16.0068 31.2853C15.8734 31.4226 15.6901 31.5001 15.4987 31.5001C15.3073 31.5001 15.124 31.4226 14.9906 31.2853L12.1573 28.3687C11.8847 28.0881 11.8912 27.6396 12.1718 27.3671C12.4524 27.0945 12.9008 27.101 13.1734 27.3816L14.7903 29.046L14.7901 15.2083C14.7901 14.8171 15.1072 14.5 15.4984 14.5Z" fill="#FFE7D9"/>
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4984 14.5C15.8896 14.5 16.2068 14.8171 16.2068 15.2083L16.207 29.046L17.824 27.3816C18.0966 27.101 18.545 27.0945 18.8256 27.3671C19.1062 27.6396 19.1127 28.0881 18.8401 28.3687L16.0068 31.2853C15.8734 31.4226 15.6901 31.5001 15.4987 31.5001C15.3073 31.5001 15.124 31.4226 14.9906 31.2853L12.1573 28.3687C11.8847 28.0881 11.8912 27.6396 12.1718 27.3671C12.4524 27.0945 12.9008 27.101 13.1734 27.3816L14.7903 29.046L14.7901 15.2083C14.7901 14.8171 15.1072 14.5 15.4984 14.5Z" fill="#FFE7D9"/>
                                             </g>
                                             <rect x="0.5" y="0.5" width="45" height="30" rx="15" transform="matrix(4.37114e-08 1 1 -4.37114e-08 2.18557e-08 -2.18557e-08)" stroke="#FFE7D9"/>
                                             <defs>
-                                            <clipPath id="clip0_34247_3940">
-                                            <rect width="17" height="17" fill="white" transform="matrix(4.37114e-08 1 1 -4.37114e-08 7 14.5)"/>
-                                            </clipPath>
+                                                <clipPath id="clip0_34247_3940">
+                                                    <rect width="17" height="17" fill="white" transform="matrix(4.37114e-08 1 1 -4.37114e-08 7 14.5)"/>
+                                                </clipPath>
                                             </defs>
-                                            </svg></a>
-                                        <div class="subtitle">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12"
-                                                viewBox="0 0 12 12" fill="none">
-                                                <g clip-path="url(#clip0_34246_3139)">
-                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                        d="M6 0C6.27614 0 6.5 0.223858 6.5 0.5V1.02469C8.86221 1.25922 10.7408 3.13779 10.9753 5.5H11.5C11.7761 5.5 12 5.72386 12 6C12 6.27614 11.7761 6.5 11.5 6.5H10.9753C10.7408 8.86221 8.86221 10.7408 6.5 10.9753V11.5C6.5 11.7761 6.27614 12 6 12C5.72386 12 5.5 11.7761 5.5 11.5V10.9753C3.13779 10.7408 1.25922 8.86221 1.02469 6.5H0.5C0.223858 6.5 0 6.27614 0 6C0 5.72386 0.223858 5.5 0.5 5.5H1.02469C1.25922 3.13779 3.13779 1.25922 5.5 1.02469V0.5C5.5 0.223858 5.72386 0 6 0ZM10 6C10 3.79086 8.20914 2 6 2C3.79086 2 2 3.79086 2 6C2 8.20914 3.79086 10 6 10C8.20914 10 10 8.20914 10 6ZM4.5 6C4.5 5.17157 5.17157 4.5 6 4.5C6.82843 4.5 7.5 5.17157 7.5 6C7.5 6.82843 6.82843 7.5 6 7.5C5.17157 7.5 4.5 6.82843 4.5 6ZM6 3.5C4.61929 3.5 3.5 4.61929 3.5 6C3.5 7.38071 4.61929 8.5 6 8.5C7.38071 8.5 8.5 7.38071 8.5 6C8.5 4.61929 7.38071 3.5 6 3.5Z"
-                                                        fill="#FFE7D9" />
-                                                </g>
-                                                <defs>
-                                                    <clipPath id="clip0_34246_3139">
-                                                        <rect width="12" height="12" fill="white" />
-                                                    </clipPath>
-                                                </defs>
-                                            </svg>
-                                            Utica, Pensylvania 57867
-                                        </div>
-                                        <h3><a href="product.html">A modern home in the comfort of San Francisco</a>
+                                        </svg>
+                                    </a>
+                                    <div class="subtitle">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+                                            <g clip-path="url(#clip0_34246_3139)">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M6 0C6.27614 0 6.5 0.223858 6.5 0.5V1.02469C8.86221 1.25922 10.7408 3.13779 10.9753 5.5H11.5C11.7761 5.5 12 5.72386 12 6C12 6.27614 11.7761 6.5 11.5 6.5H10.9753C10.7408 8.86221 8.86221 10.7408 6.5 10.9753V11.5C6.5 11.7761 6.27614 12 6 12C5.72386 12 5.5 11.7761 5.5 11.5V10.9753C3.13779 10.7408 1.25922 8.86221 1.02469 6.5H0.5C0.223858 6.5 0 6.27614 0 6C0 5.72386 0.223858 5.5 0.5 5.5H1.02469C1.25922 3.13779 3.13779 1.25922 5.5 1.02469V0.5C5.5 0.223858 5.72386 0 6 0ZM10 6C10 3.79086 8.20914 2 6 2C3.79086 2 2 3.79086 2 6C2 8.20914 3.79086 10 6 10C8.20914 10 10 8.20914 10 6ZM4.5 6C4.5 5.17157 5.17157 4.5 6 4.5C6.82843 4.5 7.5 5.17157 7.5 6C7.5 6.82843 6.82843 7.5 6 7.5C5.17157 7.5 4.5 6.82843 4.5 6ZM6 3.5C4.61929 3.5 3.5 4.61929 3.5 6C3.5 7.38071 4.61929 8.5 6 8.5C7.38071 8.5 8.5 7.38071 8.5 6C8.5 4.61929 7.38071 3.5 6 3.5Z"
+                                                    fill="#FFE7D9" />
+                                            </g>
+                                            <defs>
+                                                <clipPath id="clip0_34246_3139">
+                                                    <rect width="12" height="12" fill="white" />
+                                                </clipPath>
+                                            </defs>
+                                        </svg>
+                                        Kerala, India
+                                    </div>
+                                        <h3><a href="product.html">Discover The Nest Holiday City</a>
                                         </h3>
                                         <ul class="product-tag">
                                             <li> <span class="badge"><svg xmlns="http://www.w3.org/2000/svg" width="12"
@@ -295,10 +114,7 @@
                                                     </svg> 13 Rooms</span>
                                             </li>
                                         </ul>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since the
-                                            1500s.Lorem Ipsum is simply dummy text of the printing and typesetting
-                                            industry.</p>
+                                        <p>Welcome to The Nest Holiday City, where modern living meets the tranquility of nature. Our homes are designed to provide comfort and luxury in a serene environment, perfect for senior couples, individuals, and young retirees.</p>
                                         <div class="price">
                                             <ins>31.459,000 <span class="currency-type">USD</span></ins>
                                         </div>
@@ -357,9 +173,9 @@
                                                     </clipPath>
                                                 </defs>
                                             </svg>
-                                            Utica, Pensylvania 57867
+                                            Kerala, India
                                         </div>
-                                        <h3><a href="product.html">A modern home in the comfort of San Francisco</a>
+                                        <h3><a href="product.html">A modern home in the comfort of Kerala</a>
                                         </h3>
                                         <ul class="product-tag">
                                             <li> <span class="badge"><svg xmlns="http://www.w3.org/2000/svg" width="12"
@@ -377,10 +193,7 @@
                                                     </svg> 13 Rooms</span>
                                             </li>
                                         </ul>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since the
-                                            1500s.Lorem Ipsum is simply dummy text of the printing and typesetting
-                                            industry.</p>
+                                        <p>Welcome to The Nest Holiday City, where tranquility meets modern living. Our community offers a perfect blend of comfort and luxury, tailored for senior couples, individuals, and young retirees. Nestled in the serene landscapes of Kerala, The Nest provides personalized care, professional support, and a vibrant community, ensuring a fulfilling lifestyle for all our residents.</p>
                                         <div class="price">
                                             <ins>31.459,000 <span class="currency-type">USD</span></ins>
                                         </div>
@@ -449,18 +262,15 @@
         </section>
         <section class="category-section  padding-bottom" id="CategorySec">
             <div class="container">
-                <div class="section-title big-title">
-                    <h2>Modern houses <br> for the few</h2>
-                </div>
-                <div class="row row-gap ">
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <div class="category-left-side">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                                has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum is simply
-                                dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                                standard dummy text ever since the 1500s.Lorem Ipsum is simply dummy text of the
-                                printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
-                                text ever since the 1500s.</p>
+            <div class="section-title big-title">
+                <h2>The Nest - </br>Holiday City</h2>
+            </div>
+            <div class="row row-gap">
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="category-left-side">
+                        <p>Welcome to The Nest Holiday City, an innovative concept dedicated to providing a serene and secure living environment for senior couples, individuals, and young retirees. Nestled in the picturesque landscapes of Kerala, our community offers a perfect blend of comfort, care, and companionship.</p>
+                        <p>Our mission is to enhance the quality of life for our residents through personalized care, professional support, and a vibrant community atmosphere. The Nest Holiday City is designed to cater to the diverse needs of its residents, ensuring that everyone feels at home and well-cared for.</p>
+                        <p>From 24x7 medical support and healthcare facilities to engaging community activities and homely food, we strive to create a nurturing environment that promotes well-being and happiness. Experience the peace of mind that comes with knowing you or your loved ones are in a safe and supportive community.</p>
                             <div class="swiper category-slider">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide category-itm">
@@ -573,20 +383,13 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
-                        <div class="category-right-side">
-                            <div class="category-right-img">
-                                <img src="assets/images/few-houses.png" alt="">
-                            </div>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum
-                                is simply dummy
-                                text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                                standard dummy text ever
-                                since the 1500s.Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been
-                                the industry's standard dummy text ever since the 1500s.</p>
-                        </div>
-                    </div>
+    <div class="category-right-side">
+        <div class="category-right-img">
+            <img src="assets/images/few-houses.png" alt="">
+        </div>
+        <p>Discover The Nest Holiday City, a sanctuary designed to offer a blend of luxury and comfort. Situated in the lush landscapes of Kerala, our community is perfect for senior couples, individuals, and young retirees. With personalized care, modern amenities, and a vibrant community, The Nest ensures a fulfilling and serene lifestyle for all our residents.</p>
+    </div>
+</div>
                 </div>
             </div>
         </section>
