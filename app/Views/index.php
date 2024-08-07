@@ -10,7 +10,7 @@
                                 <div class="swiper-slide home-left-item">
                                     <div class="home-left-item-inner">
                                         <div class="banner-image">
-                                            <img src="assets/images/banner.png" alt="">
+                                            <img src="assets/images/nest_banner.jpg" alt="">
                                             <div class="tooltip-custom" style="top: 23%;right: 27%;left: auto; ">
                                                 <div class="tool-ic">+</div>
                                             </div>
@@ -38,7 +38,7 @@
                                 <div class="swiper-slide home-left-item">
                                     <div class="home-left-item-inner">
                                         <div class="banner-image">
-                                            <img src="assets/images/banner.png" alt="">
+                                            <img src="assets/images/banner_2.jpg" alt="">
                                             <div class="tooltip-custom" style="top: 23%;right: 27%;left: auto; ">
                                                 <div class="tool-ic">+</div>
                                             </div>
@@ -383,13 +383,13 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
-    <div class="category-right-side">
-        <div class="category-right-img">
-            <img src="assets/images/few-houses.png" alt="">
-        </div>
-        <p>Discover The Nest Holiday City, a sanctuary designed to offer a blend of luxury and comfort. Situated in the lush landscapes of Kerala, our community is perfect for senior couples, individuals, and young retirees. With personalized care, modern amenities, and a vibrant community, The Nest ensures a fulfilling and serene lifestyle for all our residents.</p>
-    </div>
-</div>
+                        <div class="category-right-side">
+                            <div class="category-right-img">
+                                <img src="assets/images/few-houses.png" alt="">
+                            </div>
+                            <p>Discover The Nest Holiday City, a sanctuary designed to offer a blend of luxury and comfort. Situated in the lush landscapes of Kerala, our community is perfect for senior couples, individuals, and young retirees. With personalized care, modern amenities, and a vibrant community, The Nest ensures a fulfilling and serene lifestyle for all our residents.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
@@ -835,21 +835,16 @@
         <section class="place-information-section padding-bottom">
             <div class="container">
                 <div class="section-title">
-                    <div class="row">
-                        <div class="col-lg-5 col-12">
-                            <h2>Find your <br> home place</h2>
-                        </div>
-                        <div class="col-lg-7 col-12 right-side">
-                            <div class="description-wrapper">
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                    Ipsum has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum
-                                    is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                                    the industry's standard dummy text ever since the 1500s.Lorem Ipsum is simply dummy
-                                    text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                                    standard dummy text ever since the 1500s.</p>
-                            </div>
+                <div class="row">
+                    <div class="col-lg-5 col-12">
+                        <h2>Find your <br> home place</h2>
+                    </div>
+                    <div class="col-lg-7 col-12 right-side">
+                        <div class="description-wrapper">
+                            <p>At The Nest Holiday City, we pride ourselves on providing a comprehensive living experience that caters to all aspects of senior living. Our facilities include state-of-the-art healthcare services, wellness programs, and recreational activities designed to promote a healthy and active lifestyle. The community is set in a picturesque location with easy access to essential services and local attractions. Residents enjoy a vibrant social environment with numerous opportunities for engagement and personal growth. The Nest is committed to ensuring the safety, comfort, and happiness of all our residents, making it the perfect place to call home.</p>
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
             <div class="place-image-wrapper">
@@ -1001,15 +996,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-12">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's
-                            standard dummy text ever since the 1500s.Lorem Ipsum is simply dummy text of the printing
-                            and typesetting industry.
-                            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum is
-                            simply dummy text of the
-                            printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text
-                            ever since the 1500s.
-                        </p>
+                        <p>The Nest Holiday City offers a unique blend of luxury and comfort tailored for seniors. Our community features beautifully designed residences surrounded by lush greenery, creating a tranquil environment perfect for relaxation. We provide a wide range of amenities including 24/7 medical support, a fully equipped fitness center, and a variety of recreational activities to keep residents active and engaged. Our dedicated staff ensures personalized care, catering to the individual needs of each resident. Experience peace of mind and a vibrant community life at The Nest Holiday City.</p>
                     </div>
                 </div>
             </div>
@@ -1022,22 +1009,22 @@
                     </div>
                     <ul class="d-flex tabs">
                         <li class="tab-link active" data-tab="tab-1">
-                            <a href="javascript:void(0)">Apartments</a>
-                        </li>
-                        <li class="tab-link" data-tab="tab-2">
-                            <a href="javascript:void(0)">One-family houses</a>
-                        </li>
-                        <li class="tab-link" data-tab="tab-3">
-                            <a href="javascript:void(0)">Semi-detached houses</a>
-                        </li>
-                        <li class="tab-link" data-tab="tab-4">
-                            <a href="javascript:void(0)">Investment plots</a>
-                        </li>
-                        <li class="tab-link" data-tab="tab-5">
                             <a href="javascript:void(0)">Villas</a>
                         </li>
+                        <li class="tab-link" data-tab="tab-2">
+                            <a href="javascript:void(0)">Resorts</a>
+                        </li>
+                        <li class="tab-link" data-tab="tab-3">
+                            <a href="javascript:void(0)">Tent Stays</a>
+                        </li>
+                        <li class="tab-link" data-tab="tab-4">
+                            <a href="javascript:void(0)">Farm Houses</a>
+                        </li>
+                        <li class="tab-link" data-tab="tab-5">
+                            <a href="javascript:void(0)">Apartments</a>
+                        </li>
                         <li class="tab-link" data-tab="tab-6">
-                            <a href="javascript:void(0)">Offices</a>
+                            <a href="javascript:void(0)">One-family Houses</a>
                         </li>
                     </ul>
                 </div>
@@ -3129,12 +3116,10 @@
         </section>
         <section class="home-category-section padding-bottom">
             <div class="container">
-                <div class="section-title title-center">
-                    <h2>Find your home place</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard dummy text ever since the 1500s.Lorem Ipsum is simply dummy text of the
-                        printing and typesetting industry.</p>
-                </div>
+            <div class="section-title title-center">
+                <h2>Find your home place</h2>
+                <p>Welcome to The Nest Holiday City, a community designed for comfort and convenience. Choose from our range of living options including elegant villas, spacious resorts, unique tent stays, and charming farmhouses. Our community is equipped with top-notch amenities and services to ensure a fulfilling and enjoyable lifestyle for all our residents. Experience the perfect blend of modern living and natural beauty at The Nest.</p>
+            </div>
                 <div class="swiper best-category-slider">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide category-itm">
@@ -3332,7 +3317,7 @@
         <section class="modern-houses-section padding-bottom">
             <div class="container">
                 <div class="section-title">
-                    <h2>Modern houses <br> for the few</h2>
+                    <h2>Modern houses <br> for everyone</h2>
                 </div>
             </div>
             <div class="offset-container offset-right">
@@ -3347,9 +3332,8 @@
                     </div>
                     <div class="col-lg-4 col-12">
                         <div class="modern-houses-right">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                                has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum is simply
-                                dummy text of the printing and typesetting industry.</p>
+                        <p>At The Nest Holiday City, we offer modern homes designed for everyone interested in a luxurious and tranquil living experience. Our residences feature contemporary architecture, spacious interiors, and are set amidst beautifully landscaped surroundings. </p>
+
                             <div class="swiper modern-houses-slider">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide product-card">
@@ -3700,37 +3684,22 @@
             <div class="modern-houses-bottom padding-top">
                 <div class="container">
                     <div class="row row-gap align-items-center">
-                        <div class="col-lg-8 col-md-6 col-12">
-                            <div class="modern-houses-description">
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                    Ipsum has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum
-                                    is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                                    the industry's standard dummy text ever since the 1500s.Lorem Ipsum is simply dummy
-                                    text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                                    standard dummy text ever since the 1500s.Lorem Ipsum is simply dummy text of the
-                                    printing and typesetting industry. Lorem Ipsum has been the industry's standard
-                                    dummy text ever since the 1500s.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                    Ipsum has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum
-                                    is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                                    the industry's standard dummy text ever since the 1500s.</p>
-                                <a href="#" class="btn-secondary">Show full details <svg
-                                        xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17"
-                                        fill="none">
-                                        <g clip-path="url(#clip0_21_3415)">
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M0.5 8.49991C0.499994 8.89111 0.817121 9.20824 1.20832 9.20825L15.046 9.20847L13.3816 10.8254C13.101 11.098 13.0945 11.5465 13.3671 11.8271C13.6396 12.1077 14.0881 12.1141 14.3687 11.8416L17.2853 9.00823C17.4226 8.87485 17.5001 8.69158 17.5001 8.50016C17.5001 8.30874 17.4226 8.12547 17.2853 7.99209L14.3687 5.15876C14.0881 4.88618 13.6396 4.89267 13.3671 5.17327C13.0945 5.45387 13.101 5.90231 13.3816 6.1749L15.046 7.7918L1.20834 7.79158C0.817143 7.79158 0.500006 8.10871 0.5 8.49991Z"
-                                                fill="#172229"></path>
-                                        </g>
-                                        <defs>
-                                            <clipPath id="clip0_21_3415">
-                                                <rect width="17" height="17" fill="white" transform="translate(0.5)">
-                                                </rect>
-                                            </clipPath>
-                                        </defs>
-                                    </svg></a>
-                            </div>
+                    <div class="col-lg-8 col-md-6 col-12">
+                        <div class="modern-houses-description">
+                            <p>At The Nest Holiday City, we offer a diverse range of modern homes designed to cater to various lifestyles. Our residences feature contemporary architecture, spacious interiors, and are set amidst beautifully landscaped surroundings. Each home is built with high-quality materials and equipped with the latest amenities to ensure comfort and sophistication. Whether you are looking for a serene retreat or a vibrant community, The Nest provides the perfect blend of style and convenience for all.</p>
+                            <p>Our community is designed for everyone interested in a luxurious and tranquil living experience. With personalized care, professional support, and a range of recreational activities, residents can enjoy a fulfilling lifestyle. Discover the perfect place to call home at The Nest Holiday City, where comfort, safety, and happiness are our top priorities.</p>
+                            <a href="#" class="btn-secondary">Show full details <svg xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
+                                <g clip-path="url(#clip0_21_3415)">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 8.49991C0.499994 8.89111 0.817121 9.20824 1.20832 9.20825L15.046 9.20847L13.3816 10.8254C13.101 11.098 13.0945 11.5465 13.3671 11.8271C13.6396 12.1077 14.0881 12.1141 14.3687 11.8416L17.2853 9.00823C17.4226 8.87485 17.5001 8.69158 17.5001 8.50016C17.5001 8.30874 17.4226 8.12547 17.2853 7.99209L14.3687 5.15876C14.0881 4.88618 13.6396 4.89267 13.3671 5.17327C13.0945 5.45387 13.101 5.90231 13.3816 6.1749L15.046 7.7918L1.20834 7.79158C0.817143 7.79158 0.500006 8.10871 0.5 8.49991Z" fill="#172229"></path>
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_21_3415">
+                                        <rect width="17" height="17" fill="white" transform="translate(0.5)"/>
+                                    </clipPath>
+                                </defs>
+                            </svg></a>
                         </div>
+                    </div>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="houses-bottom-img">
                                 <img src="assets/images/houses-bottom.png" alt="">
@@ -3743,21 +3712,17 @@
         <section class="newsletter-section padding-top padding-bottom">
             <div class="container">
                 <div class="section-title">
-                    <div class="row">
-                        <div class="col-lg-5 col-12">
-                            <h2>Find your <br> home place</h2>
-                        </div>
-                        <div class="col-lg-7 col-12 right-side">
-                            <div class="description-wrapper">
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            </div>
-                        </div>
+                <div class="row">
+                <div class="col-lg-5 col-12">
+                    <h2>Find your <br> home place</h2>
+                </div>
+                <div class="col-lg-7 col-12 right-side">
+                    <div class="description-wrapper">
+                        <p>Discover The Nest Holiday City, where comfort and luxury blend seamlessly. Our community offers a variety of modern housing options, including villas, resorts, tent stays, and farmhouses, designed to cater to different lifestyles and preferences. Each residence is equipped with high-quality amenities and surrounded by beautifully landscaped environments, providing a tranquil retreat for all residents.</p>
+                        <p>In addition to our diverse housing options, we provide a range of facilities to enhance your living experience. Enjoy our state-of-the-art fitness center, serene meditation spaces, and well-equipped healthcare facilities with 24/7 medical support. Engage in recreational activities at our spa, gym, clubhouse, and swimming pool, or take a stroll through our beautifully maintained gardens. At The Nest, we ensure every resident enjoys a vibrant, healthy, and fulfilling lifestyle.</p>
                     </div>
+                </div>
+            </div>
                 </div>
             </div>
             <div class="newsletter-content">
@@ -3768,13 +3733,12 @@
                     <div class="row justify-content-end ">
                         <div class="col-lg-7 col-12">
                             <div class="newsletter-form">
-                                <h3>Subscribe newsletter and get -20% off</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                    Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                            <h3>Participate in Our Survey and Get -20% Off</h3>
+                            <p>We value your opinion and invite you to take part in our survey about The Nest Holiday City. Share your thoughts and feedback to help us enhance our community and services. As a token of our appreciation, you'll receive a 20% discount on your next booking with us.</p>
                                 <form action="">
                                     <div class="form-group">
                                         <input type="email" placeholder="Type your email address...">
-                                        <button class="btn-secondary">Subscription
+                                        <button class="btn-secondary">Take the Survey
                                             <svg xmlns="http://www.w3.org/2000/svg" width="6" height="6"
                                                 viewBox="0 0 6 6" fill="none">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
