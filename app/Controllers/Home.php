@@ -8,4 +8,8 @@ class Home extends BaseController
     {
         return view('header') . view('index');
     }
+    public function Survey(): string
+    {
+        return view('survey');
+    }
 }
