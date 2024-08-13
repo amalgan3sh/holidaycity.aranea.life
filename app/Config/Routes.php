@@ -7,3 +7,4 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 $routes->get('/survey', 'Home::Survey');
+$routes->post('/submit_survey', 'Home::SubmitSurvey');
