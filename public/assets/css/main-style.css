@@ -6498,7 +6498,7 @@ del {
 /* Custom Checkbox Styling */
 .facilities-options .form-group, .other-facilities-options .form-group {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 15px;
     font-size: 16px;
 }

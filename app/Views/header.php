@@ -119,14 +119,9 @@
                     </a>
                 </div>
                 <ul class="menu-right d-flex justify-content-end align-items-center">
-                    <li class="wishlist-header">
+                    <li class="contact-header">
                         <a href="survey">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="19" height="15" viewBox="0 0 24 24" fill="none">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M21 3H3C2.44772 3 2 3.44772 2 4V20C2 20.5523 2.44772 21 3 21H21C21.5523 21 22 20.5523 22 20V4C22 3.44772 21.5523 3 21 3ZM12 12H16V14H12V12ZM8 12H10V14H8V12ZM16 8H8V10H16V8Z"
-                                    fill="#FFE7D9" />
-                            </svg>
-                            <span class="count">12</span>
+                            <span>Survey</span>
                         </a>
                     </li>
                     <li class="profile-header">
@@ -168,7 +163,7 @@
                                 </svg>
                                 <span>
                                     Support 24/7:
-                                    <b>+12 002-224-111</b>
+                                    <b>+91 9875684523</b>
                                 </span>
                             </a>
                         </li>

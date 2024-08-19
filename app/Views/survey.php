@@ -117,14 +117,9 @@
                     </a>
                 </div>
                 <ul class="menu-right d-flex justify-content-end align-items-center">
-                    <li class="wishlist-header">
+                <li class="contact-header">
                         <a href="survey">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="19" height="15" viewBox="0 0 24 24" fill="none">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M21 3H3C2.44772 3 2 3.44772 2 4V20C2 20.5523 2.44772 21 3 21H21C21.5523 21 22 20.5523 22 20V4C22 3.44772 21.5523 3 21 3ZM12 12H16V14H12V12ZM8 12H10V14H8V12ZM16 8H8V10H16V8Z"
-                                    fill="#FFE7D9" />
-                            </svg>
-                            <span class="count">12</span>
+                            <span>Survey</span>
                         </a>
                     </li>
                     <li class="profile-header">
@@ -166,7 +161,7 @@
                                 </svg>
                                 <span>
                                     Support 24/7:
-                                    <b>+12 002-224-111</b>
+                                    <b>+91 9758661234</b>
                                 </span>
                             </a>
                         </li>
@@ -285,7 +280,7 @@
                               </a>
                            </li>
                            <li class="ogout-link">
-                              <a href="login.html">
+                              <a href="login.html" data-scroll="tab-10">
                                  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none">
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1096 13.7506C10.6155 13.7315 11.0411 14.1261 11.0602 14.632C11.1033 15.7725 11.1638 16.605 11.2232 17.2018C11.2818 17.7895 11.6366 18.1432 12.1312 18.2036C12.7144 18.2749 13.5372 18.3333 14.6662 18.3333C15.7953 18.3333 16.618 18.2749 17.2012 18.2036C17.6956 18.1432 18.0506 17.7894 18.1092 17.2015C18.2195 16.0937 18.3329 14.1797 18.3329 11C18.3329 7.82021 18.2195 5.90623 18.1092 4.79841C18.0506 4.21051 17.6956 3.85671 17.2012 3.79627C16.618 3.72498 15.7953 3.66662 14.6662 3.66662C13.5372 3.66662 12.7144 3.72497 12.1312 3.79627C11.6366 3.85673 11.2818 4.21037 11.2232 4.79813C11.1638 5.39495 11.1033 6.22737 11.0602 7.36787C11.0411 7.87377 10.6155 8.2684 10.1096 8.24931C9.60374 8.23021 9.20911 7.80461 9.2282 7.29871C9.2724 6.1281 9.33505 5.25743 9.39891 4.61639C9.53316 3.26874 10.4728 2.15202 11.9088 1.97648C12.5772 1.89477 13.4753 1.83329 14.6662 1.83329C15.8572 1.83329 16.7552 1.89477 17.4237 1.97649C18.8598 2.15205 19.7992 3.26929 19.9335 4.61668C20.0517 5.80308 20.1662 7.78106 20.1662 11C20.1662 14.2189 20.0516 16.1968 19.9335 17.3832C19.7992 18.7306 18.8598 19.8479 17.4237 20.0234C16.7552 20.1051 15.8572 20.1666 14.6662 20.1666C13.4753 20.1666 12.5772 20.1051 11.9088 20.0234C10.4728 19.8479 9.53316 18.7312 9.39891 17.3835C9.33505 16.7425 9.2724 15.8718 9.2282 14.7012C9.20911 14.1953 9.60374 13.7697 10.1096 13.7506Z" fill="#FE4D4D"/>
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M6.60652 13.5602C6.96451 13.9181 6.96451 14.4985 6.60652 14.8565C6.24854 15.2145 5.66814 15.2145 5.31016 14.8565L2.10183 11.6482C1.74385 11.2902 1.74385 10.7098 2.10183 10.3518L5.31016 7.14349C5.66814 6.7855 6.24854 6.7855 6.60652 7.14349C6.96451 7.50147 6.96451 8.08187 6.60652 8.43985L4.96304 10.0833H13.75C14.2563 10.0833 14.6667 10.4937 14.6667 11C14.6667 11.5063 14.2563 11.9167 13.75 11.9167L4.96304 11.9167L6.60652 13.5602Z" fill="#FE4D4D"/>
@@ -301,8 +296,9 @@
                   </div>
                   <div class="col-lg-9 col-md-8 col-12">
                      <div class="my-acc-rightbar">
+
                         <div id="tab-2" class="my-acc-right-content">
-                           <div class="section-title">
+                           <div class="section-title"><br><br>
                               <h2>Introduction</h2>
                            </div>
                            <div class="form-wrapper">
@@ -321,30 +317,13 @@
                                        </select>
                                     </div>
                                  </div>
-                                 <!-- <div class="form-container">
-                                    <div class="d-flex acc-back-btn-wrp align-items-center justify-content-end">
-                                        <button class="btn-secondary back-btn-acc" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
-                                                <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
-                                            </svg>
-                                            Back 
-                                        </button>
-                                        <button class="btn continue-btn" type="button" onclick="scrollToNextTab()">
-                                            Continue
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
-                                                <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
-                                            </svg>
-                                        </button>
-                                        <script>
-                                    
-                                        </script>
-                                    </div>
-                                    </div> -->
                               </form>
                            </div>
                         </div>
+
+
                         <div id="tab-3" class="my-acc-right-content">
-                           <div class="section-title">
+                           <div class="section-title"><br><br>
                               <h2>About Us (All fields are mandatory)</h2>
                            </div>
                            <div class="form-wrapper">
@@ -484,8 +463,10 @@
                               </form>
                            </div>
                         </div>
+
+
                         <div id="tab-4" class="my-acc-right-content">
-                           <div class="section-title">
+                           <div class="section-title"><br><br>
                               <h2>Which type of house are you interested in?</h2>
                            </div>
                            <div class="form-wrapper">
@@ -814,12 +795,14 @@
                                }
                            }
                         </script>
-                        <div id="tab-6" class="my-acc-right-content">
+
+
+                        <div id="tab-6" class="my-acc-right-content"><br><br>
                            <div class="section-title d-flex align-items-center justify-content-between">
                               <h2>Wellness Park</h2>
                            </div>
                            <div class="wellness-park-section">
-                              <h4>What facilities are you interested in our wellness park?</h4>
+                              <h4>What facilities are you interested in our wellness park?</h4><br>
                               <div class="facilities-options">
                                  <div class="form-group">
                                     <!-- Checkboxes for wellness park facilities -->
@@ -833,19 +816,25 @@
                                     <label><input type="checkbox" name="wellness_facilities" value="social-wellness"> Social wellness</label>
                                  </div>
                               </div>
-                              <div class="form-group">
+                              <div class="form-group"><br>
                                  <!-- Dropdown for smart home facility -->
-                                 <label for="smartHome">Need smart home facility?<sup aria-hidden="true">*</sup>:</label>
+                                 <label for="smartHome">Need smart home facility?<sup aria-hidden="true">*</sup>:</label><br>
                                  <select id="smartHome" name="smartHome" class="form-control" required>
                                     <option value="not" disabled selected>Select an option</option>
                                     <option value="yes">Yes</option>
                                     <option value="no">No</option>
                                  </select>
                               </div>
-                              <h4>Other facilities</h4>
+                        </div>
+
+                        <div id="tab-7" class="my-acc-right-content">
+                           <div class="section-title"><br><br><br><br>
+                              <h2>Other facilities</h2>
+                           </div>
+                           <div class="form-wrapper">
+                              <form><br>
                               <div class="other-facilities-options">
-                                 <div class="form-group">
-                                    <!-- Checkboxes for other facilities -->
+                              <div class="form-group">
                                     <label><input type="checkbox" name="other_facilities" value="swimming-pool"> Swimming pool</label>
                                     <label><input type="checkbox" name="other_facilities" value="football-turf"> Football turf</label>
                                     <label><input type="checkbox" name="other_facilities" value="island-lake"> Island lake</label>
@@ -857,13 +846,15 @@
                                     <label><input type="checkbox" name="other_facilities" value="management-team"> 24x7 management team</label>
                                     <label><input type="checkbox" name="other_facilities" value="natural-pond"> Natural pond</label>
                                     <label><input type="checkbox" name="other_facilities" value="health-clinic"> Health clinic with wellness park</label>
-                                 </div>
-                              </div>
+                              </form>
+                              </div></div>
                            </div>
                         </div>
-                        <div id="tab-7" class="my-acc-right-content">
-                           <div class="section-title">
-                              <h2>Additional Informations</h2>
+
+
+                        <div id="tab-8" class="my-acc-right-content">
+                           <div class="section-title"><br><br>
+                              <h2>Budget Range</h2>
                            </div>
                            <div class="form-wrapper">
                               <form>
@@ -873,12 +864,12 @@
                                        <label for="budgetRange">Preferable Budget Range (20L minimum):<sup aria-hidden="true">*</sup></label>
                                        <input type="text" id="budgetRange" name="budgetRange" class="form-control" placeholder="Enter your budget range" required>
                                     </div>
-                                 </div>
+                                 <br><br>
                                  <!-- Total Members in a Family -->
-                                 <div class="form-container">
+                                 
                                     <div class="form-group">
                                        <label for="familyMembers">Total members in a family:<sup aria-hidden="true">*</sup></label>
-                                       <select id="familyMembers" name="familyMembers" class="form-control" required>
+                                       <select id="familyMembers" name="familyMembers" class="form-control" required><br>
                                           <option value="" disabled selected>Select an option</option>
                                           <option value="single">Single</option>
                                           <option value="couple">Couple</option>
@@ -886,10 +877,21 @@
                                        </select>
                                     </div>
                                  </div>
+                              </form>
+                           </div>
+                        </div>
+                        
+
+                        <div id="tab-9" class="my-acc-right-content">
+                           <div class="section-title"><br><br>
+                              <h2>Additional Informations</h2>
+                           </div>
+                           <div class="form-wrapper">
+                              <form>
                                  <!-- Interested in Additional Income -->
                                  <div class="form-container">
                                     <div class="form-group">
-                                       <label for="additionalIncome">Interested in additional income?<sup aria-hidden="true">*</sup></label>
+                                       <label for="additionalIncome">Interested in additional income?<sup aria-hidden="true">*</sup></label><br>
                                        <select id="additionalIncome" name="additionalIncome" class="form-control" required>
                                           <option value="" disabled selected>Select an option</option>
                                           <option value="yes">Yes</option>
@@ -909,20 +911,25 @@
                               </form>
                            </div>
                         </div>
-                        <div class="form-container">
-                           <div class="d-flex acc-back-btn-wrp align-items-center justify-content-end">
-                              <button class="btn-secondary back-btn-acc" type="submit">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
-                                    <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
-                                 </svg>
-                                 Back 
-                              </button>
-                              <button class="btn continue-btn" type="submit">
-                                 Complete the survey
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
-                                    <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
-                                 </svg>
-                              </button>
+
+
+
+                        <div id="tab-10" class="my-acc-right-content">
+                           <div class="form-container">
+                              <div class="d-flex acc-back-btn-wrp align-items-center justify-content-end">
+                                 <button class="btn-secondary back-btn-acc" type="submit">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
+                                       <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
+                                    </svg>
+                                    Back 
+                                 </button>
+                                 <button class="btn continue-btn" type="submit">
+                                    Complete the survey
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
+                                       <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
+                                    </svg>
+                                 </button>
+                              </div>
                            </div>
                         </div>
                      </div>
