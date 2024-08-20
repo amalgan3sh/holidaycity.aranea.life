@@ -277,7 +277,7 @@
                                         <div class="category-itm-inner">
                                             <div class="category-image">
                                                 <a href="#">
-/                                                    <img src="assets/images/cart.png" alt="">
+/                                                    <img src="assets/images/nest_resort.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="category-content">
@@ -302,7 +302,7 @@
                                         <div class="category-itm-inner">
                                             <div class="category-image">
                                                 <a href="#">
-/                                                    <img src="assets/images/abt-1.jpg" alt="">
+/                                                    <img src="assets/images/nest_villa.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="category-content">
@@ -327,7 +327,7 @@
                                         <div class="category-itm-inner">
                                             <div class="category-image">
                                                 <a href="#">
-/                                                    <img src="assets/images/houses.png" alt="">
+/                                                    <img src="assets/images/nest_farmhouse.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="category-content">
@@ -385,7 +385,7 @@
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="category-right-side">
                             <div class="category-right-img">
-                                <img src="assets/images/few-houses.png" alt="">
+                                <img src="assets/images/THE_NEST_HOLIDAYCITY.jpg" alt="">
                             </div>
                             <p>Discover The Nest Holiday City, a sanctuary designed to offer a blend of luxury and comfort. Situated in the lush landscapes of Kerala, our community is perfect for senior couples, individuals, and young retirees. With personalized care, modern amenities, and a vibrant community, The Nest ensures a fulfilling and serene lifestyle for all our residents.</p>
                         </div>
@@ -488,7 +488,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-/                                                <img src="assets/images/img_5.jpg" alt="">
+/                                                <img src="assets/images/HOUSE_1.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -564,7 +564,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/tent_1.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -641,7 +641,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -719,7 +719,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -830,7 +830,7 @@
                     </div>
                     <div class="col-lg-5 col-xl-6 col-12">
                         <div class="place-map-img">
-/                            <img src="assets/images/img_5.jpg" alt="">
+                            <img src="assets/images/nest_blueprint.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -852,7 +852,7 @@
                 </div>
             </div>
             <div class="place-image-wrapper">
-                <img src="assets/images/place-ino.png" alt="">
+                <img src="assets/images/nest_wallpaper.jpg" alt="">
             </div>
             <div class="container place-information-bottom">
                 <div class="row row-gap">
@@ -863,7 +863,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home-2.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -914,7 +914,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home-2.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1031,7 +1031,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1107,7 +1107,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1184,7 +1184,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1262,7 +1262,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1378,7 +1378,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1454,7 +1454,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1531,7 +1531,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1609,7 +1609,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1725,7 +1725,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1801,7 +1801,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1878,7 +1878,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1956,7 +1956,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -2072,7 +2072,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -2148,7 +2148,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/modern-home.png" alt="">
+                                                <img src="assets/images/HOUSE_2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -3121,7 +3121,7 @@
                             <div class="category-itm-inner">
                                 <div class="category-image">
                                     <a href="#">
-                                        <img src="assets/images/houses.png" alt="">
+                                        <img src="assets/images/NEST_RESOURT.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="category-content">
@@ -3146,7 +3146,7 @@
                             <div class="category-itm-inner">
                                 <div class="category-image">
                                     <a href="#">
-                                        <img src="assets/images/Investment-plots.png" alt="">
+                                        <img src="assets/images/HOUSE_1.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="category-content">
@@ -3172,7 +3172,7 @@
                             <div class="category-itm-inner">
                                 <div class="category-image">
                                     <a href="#">
-                                        <img src="assets/images/houses.png" alt="">
+                                        <img src="assets/images/nest_farmhouse.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="category-content">
@@ -3241,7 +3241,7 @@
                 <div class="row row-gap align-items-center">
                     <div class="col-lg-8 col-12">
                         <div class="modern-houses-image">
-                            <img src="assets/images/modern-houses.png" alt="">
+                            <img src="assets/images/HOUSE_2.jpg" alt="">
                             <div class="tooltip-custom" style="top: 15%;right: 6%;left: auto; ">
                                 <div class="tool-ic">+</div>
                             </div>
@@ -3257,7 +3257,7 @@
                                         <div class="product-card-inner">
                                             <div class="product-card-image">
                                                 <a href="product.html">
-/                                                    <img src="assets/images/modern-home.png" alt="">
+/                                                    <img src="assets/images/HOUSE_2.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product-content">
@@ -3333,7 +3333,7 @@
                                         <div class="product-card-inner">
                                             <div class="product-card-image">
                                                 <a href="product.html">
-                                                    <img src="assets/images/modern-home.png" alt="">
+                                                    <img src="assets/images/HOUSE_2.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product-content">
@@ -3409,7 +3409,7 @@
                                         <div class="product-card-inner">
                                             <div class="product-card-image">
                                                 <a href="product.html">
-                                                    <img src="assets/images/modern-home.png" alt="">
+                                                    <img src="assets/images/HOUSE_2.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product-content">
@@ -3486,7 +3486,7 @@
                                         <div class="product-card-inner">
                                             <div class="product-card-image">
                                                 <a href="product.html">
-                                                    <img src="assets/images/modern-home.png" alt="">
+                                                    <img src="assets/images/HOUSE_2.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product-content">
@@ -3689,7 +3689,7 @@
                                 <div class="blog-itm-image">
                                     <span class="sub-title">ARTICLES</span>
                                     <a href="article.html">
-                                        <img src="assets/images/blog-1.png" alt="">
+                                        <img src="assets/images/HOUSE_1.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-itm-content">
