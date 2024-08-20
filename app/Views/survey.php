@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="author" content="modern houses - Workdo.">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
-      <title>modern houses - Workdo</title>
+      <title>The Nest - HolidayCity</title>
       <meta name="description" content="modern houses - Workdo.">
       <meta name="keywords" content="modern houses - Workdo.">
       <link rel="shortcut icon" href="assets/images/favicon.png">
