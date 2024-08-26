@@ -6553,3 +6553,62 @@ del {
         grid-template-columns: 1fr;
     }
 }
+
+/* Custom Checkbox Styling */
+.facilities-options .form-group, .income-options .form-group {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    font-size: 16px;
+}
+
+.facilities-options .form-group label, .income-options .form-group label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.facilities-options .form-group input[type="checkbox"], .income-options .form-group input[type="checkbox"] {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #61AFB3;
+    border-radius: 4px;
+    margin-right: 10px;
+    cursor: pointer;
+    position: relative;
+}
+
+.facilities-options .form-group input[type="checkbox"]:checked::before, .income-options .form-group input[type="checkbox"]:checked::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 10px;
+    background-color: #61AFB3;
+    border-radius: 2px;
+}
+
+.facilities-options .form-group label:hover input[type="checkbox"], .income-options .form-group label:hover input[type="checkbox"] {
+    border-color: #183A40;
+}
+
+.facilities-options .form-group input[type="checkbox"]:focus, .income-options .form-group input[type="checkbox"]:focus {
+    outline: none;
+    box-shadow: 0 0 2px 2px rgba(97, 175, 179, 0.5);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .facilities-options .form-group, .income-options .form-group {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .facilities-options .form-group, .income-options .form-group {
+        grid-template-columns: 1fr;
+    }
+}

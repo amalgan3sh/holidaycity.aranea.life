@@ -3,13 +3,13 @@
 namespace App\Models;
 
 use CodeIgniter\Model;
-
+ 
 class SurveyModel extends Model
 {
     protected $table = 'survey_responses';
     protected $primaryKey = 'id';
     protected $allowedFields = [
-        'who_are_you', 'name', 'gender', 'nationality', 'age', 'phone', 'email',
+        'who_are_you', 'first_name', 'last_name', 'gender', 'nationality', 'age', 'phone', 'email',
         'designation', 'current_residential_location', 'hometown', 'project_location',
         'interested_district', 'distance_from_city', 'house_type', 'farm_type',
         'farm_acres', 'farm_facility_management', 'farm_additional_services', 

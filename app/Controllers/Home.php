@@ -40,7 +40,7 @@ class Home extends BaseController
         'phone' => $json->phone,
         'email' => $json->email,
         'designation' => $json->designation,
-        'current_location' => $json->currentLocation,
+        'current_residential_location' => $json->currentLocation,
         'hometown' => $json->hometown,
         'project_location' => $json->projectLocation,
         'interested_district' => $json->interestedDistrict,
@@ -80,6 +80,7 @@ class Home extends BaseController
         'income_sources' => $json->incomeType,
         'updated_at' => date('Y-m-d H:i:s'),
     ];
+    
         
 
         if ($surveyModel->insert($data)) {

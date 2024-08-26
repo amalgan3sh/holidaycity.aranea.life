@@ -305,7 +305,7 @@
                               <form id="form-tab-2" novalidate>
                                  <div class="form-container">
                                     <div class="form-group">
-                                       <label for="whoAreYou">Who are you?</label>
+                                       <label for="whoAreYou">Who are you?<sup aria-hidden="true">*</sup></label>
                                        <select id="whoAreYou" name="whoAreYou" class="form-control" required>
                                           <option value="" disabled selected>Select an option</option>
                                           <option value="active-senior-living">Active Senior Living</option>
@@ -478,7 +478,7 @@
                                              <label for="houseType">Please select a type of house<sup aria-hidden="true">*</sup>:</label>
                                              <select id="houseType" name="houseType" class="form-control" required onchange="handleHouseTypeChange()">
                                                 <option value="" disabled selected>Select an option</option>
-                                                <option value="farm-house">Farm house</option>
+                                                <option value="farmhouse">Farm House</option>
                                                 <option value="villa">Villa</option>
                                                 <option value="resort">Resort</option>
                                                 <option value="any-other">Any other</option>
@@ -760,40 +760,135 @@
                         </div>
                         <script>
                            function handleHouseTypeChange() {
-                               const houseType = document.getElementById('houseType').value;
-                               const farmHouseFields = document.getElementById('farmHouseFields');
-                               const villaFields = document.getElementById('villaFields');
-                               const resortFields = document.getElementById('resortFields');
-                           
-                               if (houseType === 'farm-house') {
-                                   farmHouseFields.style.display = 'block';
-                                   villaFields.style.display = 'none';
-                                   resortFields.style.display = 'none';
-                               } else if (houseType === 'villa') {
-                                   villaFields.style.display = 'block';
-                                   farmHouseFields.style.display = 'none';
-                                   resortFields.style.display = 'none';
-                               } else if (houseType === 'resort') {
-                                   resortFields.style.display = 'block';
-                                   farmHouseFields.style.display = 'none';
-                                   villaFields.style.display = 'none';
-                               } else {
-                                   farmHouseFields.style.display = 'none';
-                                   villaFields.style.display = 'none';
-                                   resortFields.style.display = 'none';
-                               }
+                              const houseType = document.getElementById('houseType').value;
+                              const farmHouseFields = document.getElementById('farmHouseFields');
+                              const villaFields = document.getElementById('villaFields');
+                              const resortFields = document.getElementById('resortFields');
+
+                              
+                              if (houseType === 'villa') {
+                                 villaFields.style.display = 'block';
+                                 farmHouseFields.style.display = 'none';
+                                 resortFields.style.display = 'none';
+                                  
+                                  // Clear farmhouse and resort fields
+                                  document.getElementById('farmType').value = null;
+                                  document.getElementById('acres').value = null;
+                                  document.getElementById('facilityManagement').value = null;
+                                  document.getElementById('additionalServices').value = null;
+
+                                  document.getElementById('resortType').value = null;
+                                  document.getElementById('campSite').value = null;
+                                  document.getElementById('pub').value = null;
+                                  document.getElementById('bar').value = null;
+                                  document.getElementById('restaurant').value = null;
+                                  document.getElementById('additionalSuggestions').value = null;
+                                  document.getElementById('yogaMeditations').value = null;
+                                  document.getElementById('indoorGames').value = null;
+                                  document.getElementById('otherSuggestions').value = null;
+
+                              } else if (houseType === 'farmhouse') {
+                                 farmHouseFields.style.display = 'block';
+                                 villaFields.style.display = 'none';
+                                 resortFields.style.display = 'none';
+                                  
+                                  // Clear villa and resort fields
+                                  document.getElementById('bedrooms').value = null;
+                                  document.getElementById('squareFeet').value = null;
+                                  document.getElementById('masterBedroomSize').value = null;
+                                  document.getElementById('livingRoomSize').value = null;
+                                  document.getElementById('bedroomSize').value = null;
+                                  document.getElementById('bathroomSize').value = null;
+                                  document.getElementById('swimmingPool').value = null;
+                                  document.getElementById('poolSize').value = null;
+                                  document.getElementById('facilityManagementVilla').value = null;
+                                  document.getElementById('siteVisiting').value = null;
+                                  document.getElementById('onlineBooking').value = null;
+                                  document.getElementById('realTimeMonitoring').value = null;
+
+                                  document.getElementById('resortType').value = null;
+                                  document.getElementById('campSite').value = null;
+                                  document.getElementById('pub').value = null;
+                                  document.getElementById('bar').value = null;
+                                  document.getElementById('restaurant').value = null;
+                                  document.getElementById('additionalSuggestions').value = null;
+                                  document.getElementById('yogaMeditations').value = null;
+                                  document.getElementById('indoorGames').value = null;
+                                  document.getElementById('otherSuggestions').value = null;
+
+                              } else if (houseType === 'resort') {
+                                 resortFields.style.display = 'block';
+                                 farmHouseFields.style.display = 'none';
+                                 villaFields.style.display = 'none';
+                                  
+                                  // Clear villa and farmhouse fields
+                                  document.getElementById('farmType').value = null;
+                                  document.getElementById('acres').value = null;
+                                  document.getElementById('facilityManagement').value = null;
+                                  document.getElementById('additionalServices').value = null;
+
+                                  document.getElementById('bedrooms').value = null;
+                                  document.getElementById('squareFeet').value = null;
+                                  document.getElementById('masterBedroomSize').value = null;
+                                  document.getElementById('livingRoomSize').value = null;
+                                  document.getElementById('bedroomSize').value = null;
+                                  document.getElementById('bathroomSize').value = null;
+                                  document.getElementById('swimmingPool').value = null;
+                                  document.getElementById('poolSize').value = null;
+                                  document.getElementById('facilityManagementVilla').value = null;
+                                  document.getElementById('siteVisiting').value = null;
+                                  document.getElementById('onlineBooking').value = null;
+                                  document.getElementById('realTimeMonitoring').value = null;
+                                  
+                              } else {
+                                 farmHouseFields.style.display = 'none';
+                                 villaFields.style.display = 'none';
+                                 resortFields.style.display = 'none';
+                                  
+                                  // Clear all fields
+                                  document.getElementById('farmType').value = null;
+                                  document.getElementById('acres').value = null;
+                                  document.getElementById('facilityManagement').value = null;
+                                  document.getElementById('additionalServices').value = null;
+
+                                  document.getElementById('bedrooms').value = null;
+                                  document.getElementById('squareFeet').value = null;
+                                  document.getElementById('masterBedroomSize').value = null;
+                                  document.getElementById('livingRoomSize').value = null;
+                                  document.getElementById('bedroomSize').value = null;
+                                  document.getElementById('bathroomSize').value = null;
+                                  document.getElementById('swimmingPool').value = null;
+                                  document.getElementById('poolSize').value = null;
+                                  document.getElementById('facilityManagementVilla').value = null;
+                                  document.getElementById('siteVisiting').value = null;
+                                  document.getElementById('onlineBooking').value = null;
+                                  document.getElementById('realTimeMonitoring').value = null;
+
+                                  document.getElementById('resortType').value = null;
+                                  document.getElementById('campSite').value = null;
+                                  document.getElementById('pub').value = null;
+                                  document.getElementById('bar').value = null;
+                                  document.getElementById('restaurant').value = null;
+                                  document.getElementById('additionalSuggestions').value = null;
+                                  document.getElementById('yogaMeditations').value = null;
+                                  document.getElementById('indoorGames').value = null;
+                                  document.getElementById('otherSuggestions').value = null;
+                              }
                            }
+                         
+                        function handleSwimmingPoolChange() {
+                           const swimmingPool = document.getElementById('swimmingPool').value;
+                           const poolSizeField = document.getElementById('poolSizeField');
                            
-                           function handleSwimmingPoolChange() {
-                               const swimmingPool = document.getElementById('swimmingPool').value;
-                               const poolSizeField = document.getElementById('poolSizeField');
-                           
-                               if (swimmingPool === 'yes') {
-                                   poolSizeField.style.display = 'block';
-                               } else {
-                                   poolSizeField.style.display = 'none';
-                               }
+                           if (swimmingPool === 'yes') {
+                               poolSizeField.style.display = 'block';
+                           } else {
+                               poolSizeField.style.display = 'none';
+                               document.getElementById('poolSize').value = null; // Clear the pool size input
                            }
+                           }
+
+
                         </script>
 
 
@@ -857,7 +952,7 @@
                               <h2>Budget Range</h2>
                            </div>
                            <div class="form-wrapper">
-                              <form>
+                              <form onsubmit="return validateBudgetRange()">
                                  <!-- Preferable Budget Range -->
                                  <div class="form-container">
                                     <div class="form-group">
@@ -881,7 +976,6 @@
                            </div>
                         </div>
                         
-
                         <div id="tab-9" class="my-acc-right-content">
                            <div class="section-title"><br><br>
                               <h2>Additional Informations</h2>
@@ -892,28 +986,44 @@
                                  <div class="form-container">
                                     <div class="form-group">
                                        <label for="additionalIncome">Interested in additional income?<sup aria-hidden="true">*</sup></label><br>
-                                       <select id="additionalIncome" name="additionalIncome" class="form-control" required>
+                                       <select id="additionalIncome" name="additionalIncome" class="form-control" required onchange="handleIncomeChange()">>
                                           <option value="" disabled selected>Select an option</option>
                                           <option value="yes">Yes</option>
                                           <option value="no">No</option>
                                        </select>
                                     </div>
+                                 
                                     <!-- Income Options - Hidden by Default -->
-                                    <div id="incomeOptions" style="display: none;">
-                                       <h5>If yes, select your preferred income options:</h5>
-                                       <div class="form-group">
-                                          <label><input type="checkbox" name="incomeType" value="rental-income"> Rental income</label><br>
-                                          <label><input type="checkbox" name="incomeType" value="additional-income"> Additional income</label><br>
-                                          <label><input type="checkbox" name="incomeType" value="roi-income"> ROI-based income</label>
+                                    <div id="incomeOptions" class="form-group" style="display: none;"><br>
+                                       <label for="incomeOptions">If yes, select your preferred income options:</label>
+                                       <div class="form-wrapper">
+                                          <form>
+                                             <div class="income-options">
+                                                   <div class="form-group">
+                                                      <label><input type="checkbox" name="incomeType" value="rental-income"> Rental income</label><br>
+                                                      <label><input type="checkbox" name="incomeType" value="additional-income"> Additional income</label><br>
+                                                      <label><input type="checkbox" name="incomeType" value="roi-income"> ROI-based income</label>
+                                                   </div>
+                                             </div>
                                        </div>
                                     </div>
                                  </div>
                               </form>
                            </div>
                         </div>
-
-
-
+                        <script>
+                           function handleIncomeChange() {
+                              const additionalIncome = document.getElementById('additionalIncome').value;
+                              const incomeOptions = document.getElementById('incomeOptions');
+                                                      
+                              if (additionalIncome === 'yes') {
+                                 incomeOptions.style.display = 'block';
+                              } else {
+                                 incomeOptions.style.display = 'none';
+                              }
+                           }
+                           
+                        </script>
                         <div id="tab-10" class="my-acc-right-content">
                            <div class="form-container">
                               <div class="d-flex acc-back-btn-wrp align-items-center justify-content-end">
@@ -934,73 +1044,80 @@
                         </div>
                      </div>
                      <script>
-                        document.querySelector('.continue-btn').addEventListener('click', function() {
-                        // Collect data from each input field
-                        const data = {
-                        whoAreYou: document.getElementById('whoAreYou').value,
-                        firstName: document.getElementById('firstName').value,
-                        lastName: document.getElementById('lastName').value,
-                        gender: document.getElementById('gender').value,
-                        nationality: document.getElementById('nationality').value,
-                        age: document.getElementById('age').value,
-                        phone: document.getElementById('phone').value,
-                        email: document.getElementById('email').value,
-                        designation: document.getElementById('designation').value,
-                        currentLocation: document.getElementById('currentLocation').value,
-                        hometown: document.getElementById('hometown').value,
-                        projectLocation: document.getElementById('projectLocation').value,
-                        interestedDistrict: document.getElementById('interestedDistrict').value,
-                        distanceFromCity: document.getElementById('distanceFromCity').value,
-                        houseType: document.getElementById('houseType').value,
-                        farmType: document.getElementById('farmType') ? document.getElementById('farmType').value : null,
-                        acres: document.getElementById('acres') ? document.getElementById('acres').value : null,
-                        facilityManagement: document.getElementById('facilityManagement') ? document.getElementById('facilityManagement').value : null,
-                        additionalServices: document.getElementById('additionalServices') ? document.getElementById('additionalServices').value : null,
-                        bedrooms: document.getElementById('bedrooms') ? document.getElementById('bedrooms').value : null,
-                        squareFeet: document.getElementById('squareFeet') ? document.getElementById('squareFeet').value : null,
-                        masterBedroomSize: document.getElementById('masterBedroomSize') ? document.getElementById('masterBedroomSize').value : null,
-                        livingRoomSize: document.getElementById('livingRoomSize') ? document.getElementById('livingRoomSize').value : null,
-                        bedroomSize: document.getElementById('bedroomSize') ? document.getElementById('bedroomSize').value : null,
-                        bathroomSize: document.getElementById('bathroomSize') ? document.getElementById('bathroomSize').value : null,
-                        swimmingPool: document.getElementById('swimmingPool') ? document.getElementById('swimmingPool').value : null,
-                        poolSize: document.getElementById('poolSize') ? document.getElementById('poolSize').value : null,
-                        facilityManagementVilla: document.getElementById('facilityManagementVilla') ? document.getElementById('facilityManagementVilla').value : null,
-                        siteVisiting: document.getElementById('siteVisiting') ? document.getElementById('siteVisiting').value : null,
-                        onlineBooking: document.getElementById('onlineBooking') ? document.getElementById('onlineBooking').value : null,
-                        realTimeMonitoring: document.getElementById('realTimeMonitoring') ? document.getElementById('realTimeMonitoring').value : null,
-                        resortType: document.getElementById('resortType') ? document.getElementById('resortType').value : null,
-                        campSite: document.getElementById('campSite') ? document.getElementById('campSite').value : null,
-                        pub: document.getElementById('pub') ? document.getElementById('pub').value : null,
-                        bar: document.getElementById('bar') ? document.getElementById('bar').value : null,
-                        restaurant: document.getElementById('restaurant') ? document.getElementById('restaurant').value : null,
-                        additionalSuggestions: document.getElementById('additionalSuggestions') ? document.getElementById('additionalSuggestions').value : null,
-                        yogaMeditations: document.getElementById('yogaMeditations') ? document.getElementById('yogaMeditations').value : null,
-                        indoorGames: document.getElementById('indoorGames') ? document.getElementById('indoorGames').value : null,
-                        otherSuggestions: document.getElementById('otherSuggestions') ? document.getElementById('otherSuggestions').value : null,
-                        wellnessFacilities: Array.from(document.querySelectorAll('input[name="wellness_facilities"]:checked')).map(el => el.value).join(', '),
-                        smartHome: document.getElementById('smartHome') ? document.getElementById('smartHome').value : null,
-                        otherFacilities: Array.from(document.querySelectorAll('input[name="other_facilities"]:checked')).map(el => el.value).join(', '),
-                        budgetRange: document.getElementById('budgetRange').value,
-                        familyMembers: document.getElementById('familyMembers').value,
-                        additionalIncome: document.getElementById('additionalIncome').value,
-                        incomeType: Array.from(document.querySelectorAll('input[name="incomeType"]:checked')).map(el => el.value).join(', ')
-                        };
-                        
-                        // Validate data and get a list of missing or invalid fields
-                        const invalidFields = validateData(data);
-                        
-                        if (invalidFields.length === 0) {
-                        // Send data to the server
-                        submitData(data);
-                        } else {
-                        // Show an alert with the list of missing or invalid fields
-                        alert('Please fill out the following required fields:\n' + invalidFields.join('\n'));
-                        }
+                        document.querySelector('.continue-btn').addEventListener('click', function(event) {
+                            // Collect data from each input field
+                            const data = {
+                                whoAreYou: document.getElementById('whoAreYou').value,
+                                firstName: document.getElementById('firstName').value,
+                                lastName: document.getElementById('lastName').value,
+                                gender: document.getElementById('gender').value,
+                                nationality: document.getElementById('nationality').value,
+                                age: document.getElementById('age').value,
+                                phone: document.getElementById('phone').value,
+                                email: document.getElementById('email').value,
+                                designation: document.getElementById('designation').value,
+                                currentLocation: document.getElementById('currentLocation').value,
+                                hometown: document.getElementById('hometown').value,
+                                projectLocation: document.getElementById('projectLocation').value,
+                                interestedDistrict: document.getElementById('interestedDistrict').value,
+                                distanceFromCity: document.getElementById('distanceFromCity').value,
+                                houseType: document.getElementById('houseType').value,
+                                farmType: document.getElementById('farmType') ? document.getElementById('farmType').value : null,
+                                acres: document.getElementById('acres') ? document.getElementById('acres').value : null,
+                                facilityManagement: document.getElementById('facilityManagement') ? document.getElementById('facilityManagement').value : null,
+                                additionalServices: document.getElementById('additionalServices') ? document.getElementById('additionalServices').value : null,
+                                bedrooms: document.getElementById('bedrooms') ? document.getElementById('bedrooms').value : null,
+                                squareFeet: document.getElementById('squareFeet') ? document.getElementById('squareFeet').value : null,
+                                masterBedroomSize: document.getElementById('masterBedroomSize') ? document.getElementById('masterBedroomSize').value : null,
+                                livingRoomSize: document.getElementById('livingRoomSize') ? document.getElementById('livingRoomSize').value : null,
+                                bedroomSize: document.getElementById('bedroomSize') ? document.getElementById('bedroomSize').value : null,
+                                bathroomSize: document.getElementById('bathroomSize') ? document.getElementById('bathroomSize').value : null,
+                                swimmingPool: document.getElementById('swimmingPool') ? document.getElementById('swimmingPool').value : null,
+                                poolSize: document.getElementById('poolSize') ? document.getElementById('poolSize').value : null,
+                                facilityManagementVilla: document.getElementById('facilityManagementVilla') ? document.getElementById('facilityManagementVilla').value : null,
+                                siteVisiting: document.getElementById('siteVisiting') ? document.getElementById('siteVisiting').value : null,
+                                onlineBooking: document.getElementById('onlineBooking') ? document.getElementById('onlineBooking').value : null,
+                                realTimeMonitoring: document.getElementById('realTimeMonitoring') ? document.getElementById('realTimeMonitoring').value : null,
+                                resortType: document.getElementById('resortType') ? document.getElementById('resortType').value : null,
+                                campSite: document.getElementById('campSite') ? document.getElementById('campSite').value : null,
+                                pub: document.getElementById('pub') ? document.getElementById('pub').value : null,
+                                bar: document.getElementById('bar') ? document.getElementById('bar').value : null,
+                                restaurant: document.getElementById('restaurant') ? document.getElementById('restaurant').value : null,
+                                additionalSuggestions: document.getElementById('additionalSuggestions') ? document.getElementById('additionalSuggestions').value : null,
+                                yogaMeditations: document.getElementById('yogaMeditations') ? document.getElementById('yogaMeditations').value : null,
+                                indoorGames: document.getElementById('indoorGames') ? document.getElementById('indoorGames').value : null,
+                                otherSuggestions: document.getElementById('otherSuggestions') ? document.getElementById('otherSuggestions').value : null,
+                                wellnessFacilities: Array.from(document.querySelectorAll('input[name="wellness_facilities"]:checked')).map(el => el.value).join(', '),
+                                smartHome: document.getElementById('smartHome') ? document.getElementById('smartHome').value : null,
+                                otherFacilities: Array.from(document.querySelectorAll('input[name="other_facilities"]:checked')).map(el => el.value).join(', '),
+                                budgetRange: document.getElementById('budgetRange').value,
+                                familyMembers: document.getElementById('familyMembers').value,
+                                additionalIncome: document.getElementById('additionalIncome').value,
+                                incomeType: Array.from(document.querySelectorAll('input[name="incomeType"]:checked')).map(el => el.value).join(', ')
+                            };
+
+                            // Validate data and get a list of missing or invalid fields
+                            const invalidFields = validateData(data);
+
+                            // Check budget range
+                            if (data.budgetRange && !isValidBudget(data.budgetRange)) {
+                                invalidFields.push('Budget Range should be atleast 20 Lakhs)');
+                            }
+
+                            if (invalidFields.length === 0) {
+                                // Send data to the server
+                                console.log(data);
+                                
+                                submitData(data);
+                            } else {
+                                // Show an alert with the list of missing or invalid fields
+                                alert('Please fill out the following required fields:\n' + invalidFields.join('\n'));
+                            }
                         });
-                        
+
                         function validateData(data) {
                             const invalidFields = [];
-                        
+
                             // Check each field and add to the list if it's invalid
                             if (!data.whoAreYou) invalidFields.push('Who are you');
                             if (!data.firstName) invalidFields.push('First Name');
@@ -1017,12 +1134,22 @@
                             if (!data.interestedDistrict) invalidFields.push('Interested District');
                             if (!data.distanceFromCity) invalidFields.push('Distance From the City');
                             if (!data.houseType) invalidFields.push('House Type');
-                        
+                            if (!data.smartHome) invalidFields.push('Smart Home');
+                            if (!data.budgetRange) invalidFields.push('Budget Range');
+                            if (!data.familyMembers) invalidFields.push('Family Members');
+                            if (!data.additionalIncome) invalidFields.push('Additional Income');
+
                             // Add other fields as necessary
-                        
+
                             return invalidFields;
                         }
-                        
+
+                        function isValidBudget(budget) {
+                            // Convert budget to a number and check if it's greater than 20 Lakhs
+                            const numericBudget = parseFloat(budget.replace(/[^0-9.-]/g, ''));
+                            return numericBudget > 1900000; // 20 Lakhs in numeric form
+                        }
+
                         function submitData(data) {
                             fetch('<?= base_url('submit_survey'); ?>', {
                                 method: 'POST',
@@ -1047,6 +1174,7 @@
                             });
                         }
                      </script>
+
                      <div id="tab-9" class="my-acc-right-content"></div>
                      <div id="tab-10" class="my-acc-right-content"></div>
                   </div>
@@ -1056,96 +1184,94 @@
       </section>
       </div>
       <footer class="site-footer">
-         <div class="container">
+        <div class="container">
             <div class="footer-row">
-               <div class="footer-col footer-subscribe-col">
-                  <div class="footer-widget">
-                     <h4>Subscribe newsletter and get -20% off</h4>
-                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                        been the industry's standard dummy text ever since the 1500s, when an unknown.
-                     </p>
-                     <form class="footer-subscribe-form">
-                        <div class="input-wrapper">
-                           <input type="email" placeholder="Type your address email...">
-                           <button type="submit" class="btn-subscibe">
-                              Subscription 
-                              <svg xmlns="http://www.w3.org/2000/svg" width="6" height="6"
-                                 viewBox="0 0 6 6" fill="none">
-                                 <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M0.116348 5.76479C-0.0136244 5.63481 -0.0136243 5.42409 0.116348 5.29411L4.72561 0.684852L1.76376 0.6848C1.57995 0.684797 1.43095 0.535788 1.43095 0.351979C1.43096 0.16817 1.57997 0.0191656 1.76377 0.019169L5.52909 0.0192342C5.7129 0.0192372 5.8619 0.168239 5.8619 0.352044L5.86197 4.11736C5.86197 4.30117 5.71296 4.45018 5.52916 4.45018C5.34535 4.45018 5.19634 4.30118 5.19633 4.11737L5.19628 1.15552L0.587021 5.76479C0.457048 5.89476 0.246321 5.89476 0.116348 5.76479Z"
-                                    fill="#FBFBFB"></path>
-                              </svg>
-                           </button>
-                        </div>
-                        <div class="checkbox-custom">
-                           <input type="checkbox" id="subscibecheck">
-                           <label for="subscibecheck">
-                           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                           </label>
-                        </div>
-                     </form>
-                  </div>
-               </div>
-               <div class="footer-col footer-link footer-link-1">
-                  <div class="footer-widget">
-                     <h4> Shop </h4>
-                     <ul>
-                        <li><a href="order-summery.html">Order status</a></li>
-                        <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
-                        <li><a href="privacy-policy.html">Returns</a></li>
-                        <li><a href="checkout.html">Payment Options</a></li>
-                        <li><a href="contact-us.html">Contact Us</a></li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="footer-col footer-link footer-link-2">
-                  <div class="footer-widget">
-                     <h4> Account </h4>
-                     <ul>
-                        <li><a href="product-list.html">Products</a></li>
-                        <li><a href="product.html">Categories</a></li>
-                        <li><a href="cart.html">My Cart</a></li>
-                        <li><a href="my-account.html">My Profile</a></li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="footer-col footer-link footer-link-3">
-                  <div class="footer-widget footer-social-links">
-                     <h4>Share</h4>
-                     <ul>
-                        <li>
-                           <a  href="https://www.instagram.com/">
-                           Instagram
-                           </a>
-                        </li>
-                        <li>
-                           <a href="https://www.facebook.com/messenger/">
-                           Facebook
-                           </a>
-                        </li>
-                        <li>
-                           <a href="https://www.twitter.com/">
-                           Twitter
-                           </a>
-                        </li>
-                        <li>
-                           <a href="https://www.youtube.com/">
-                           Youtube
-                           </a>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
+                <div class="footer-col footer-subscribe-col">
+                    <div class="footer-widget">
+                        <h4>Subscribe HolidayCity and get -20% off</h4>
+                        <p>Aranea presents you Nest- HolidayCity for you and your dear ones. Holiday City
+                            introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
+                        <form class="footer-subscribe-form">
+                            <div class="input-wrapper">
+                                <input type="email" placeholder="Type your address email...">
+                                <button type="submit" class="btn-subscibe">
+                                    Subscription <svg xmlns="http://www.w3.org/2000/svg" width="6" height="6"
+                                        viewBox="0 0 6 6" fill="none">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M0.116348 5.76479C-0.0136244 5.63481 -0.0136243 5.42409 0.116348 5.29411L4.72561 0.684852L1.76376 0.6848C1.57995 0.684797 1.43095 0.535788 1.43095 0.351979C1.43096 0.16817 1.57997 0.0191656 1.76377 0.019169L5.52909 0.0192342C5.7129 0.0192372 5.8619 0.168239 5.8619 0.352044L5.86197 4.11736C5.86197 4.30117 5.71296 4.45018 5.52916 4.45018C5.34535 4.45018 5.19634 4.30118 5.19633 4.11737L5.19628 1.15552L0.587021 5.76479C0.457048 5.89476 0.246321 5.89476 0.116348 5.76479Z"
+                                            fill="#FBFBFB"></path>
+                                    </svg>
+                                </button>
+                            </div>
+                            <div class="checkbox-custom">
+                                <input type="checkbox" id="subscibecheck">
+                                <label for="subscibecheck">
+                                    Contact Us for more details and inquiry
+                                </label>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="footer-col footer-link footer-link-1">
+                    <div class="footer-widget">
+                        <h4> Shop </h4>
+                        <ul>
+                            <li><a href="order-summery.html">Order status</a></li>
+                            <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
+                            <li><a href="privacy-policy.html">Returns</a></li>
+                            <li><a href="checkout.html">Payment Options</a></li>
+                            <li><a href="contact-us.html">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-col footer-link footer-link-2">
+                    <div class="footer-widget">
+                        <h4> Account </h4>
+                        <ul>
+                            <li><a href="product-list.html">Products</a></li>
+                            <li><a href="product.html">Categories</a></li>
+                            <li><a href="cart.html">My Cart</a></li>
+                            <li><a href="my-account.html">My Profile</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-col footer-link footer-link-3">
+                    <div class="footer-widget footer-social-links">
+                        <h4>Share</h4>
+                        <ul>
+                            <li>
+                                <a href="https://www.instagram.com/">
+                                    Instagram
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/messenger/">
+                                    Facebook
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.twitter.com/">
+                                    Twitter
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/">
+                                    Youtube
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
             <div class="footer-bottom">
-               <div class="row align-items-center">
-                  <div class="col-12 col-md-6">
-                     <p>© 2022 Company. All rights reserved</p>
-                  </div>
-               </div>
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-6">
+                        <p>© 2022 Company. All rights reserved</p>
+                    </div>
+                </div>
             </div>
-         </div>
-      </footer>
+        </div>
+    </footer>
       <!-- Mobile menu -->
       <div class="mobile-menu-wrapper">
          <div class="menu-close-icon">
