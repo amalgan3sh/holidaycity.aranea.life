@@ -34,16 +34,16 @@
                     </div>
                     <ul class="main-nav">
                         <li class="menu-lnk">
-                            <a href="index.html">Home</a>
+                            <a href="/">Home</a>
                         </li>
                         <li class="menu-lnk has-item">
                             <a href="about.html">About Us</a>
                             <div class="menu-dropdown">
                                 <ul>
-                                    <li><a href="about.html">Overview</a></li>
-                                    <li><a href="about.html#inspiration">Our Inspiration</a></li>
-                                    <li><a href="about.html#vision">Vision and Mission</a></li>
-                                    <li><a href="about.html#team">Our Team</a></li>
+                                    <li><a href="overview">Overview</a></li>
+                                    <li><a href="our_inspiration">Our Inspiration</a></li>
+                                    <li><a href="vision_and_mission">Vision and Mission</a></li>
+                                    <!-- <li><a href="about.html#team">Our Team</a></li> -->
                                 </ul>
                             </div>
                         </li>

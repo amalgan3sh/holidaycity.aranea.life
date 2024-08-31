@@ -13,6 +13,21 @@ class Home extends BaseController
     {
         return view('survey');
     }
+
+    public function Overview(): string
+    {
+        return view('header') . view('overview');
+    }
+
+    public function OurInspiration(): string
+    {
+        return view('header') . view('our_inspiration');
+    }
+    public function VisionAndMission(): string
+    {
+        return view('header') . view('vision_and_mission');
+    }
+
     public function SubmitSurvey(){
 
         $json = $this->request->getJSON();
