@@ -1,77 +1,31 @@
 
     <!--header end here-->
     <div class="wrapper">
-    <section class="common-banner-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="common-banner-content">
-                            <a href="#" class="back-btn">
-                                <span class="svg-ic">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="11" height="5" viewBox="0 0 11 5"
-                                        fill="none">
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M10.5791 2.28954C10.5791 2.53299 10.3818 2.73035 10.1383 2.73035L1.52698 2.73048L2.5628 3.73673C2.73742 3.90636 2.74146 4.18544 2.57183 4.36005C2.40219 4.53467 2.12312 4.53871 1.9485 4.36908L0.133482 2.60587C0.0480403 2.52287 -0.000171489 2.40882 -0.000171488 2.2897C-0.000171486 2.17058 0.0480403 2.05653 0.133482 1.97353L1.9485 0.210321C2.12312 0.0406877 2.40219 0.044729 2.57183 0.219347C2.74146 0.393966 2.73742 0.673036 2.5628 0.842669L1.52702 1.84888L10.1383 1.84875C10.3817 1.84874 10.5791 2.04609 10.5791 2.28954Z"
-                                            fill="white"></path>
-                                    </svg>
-                                </span>
-                                Back to Home
-                            </a>
-                            <div class="section-title">
-                                <h2>About <b>Us</b></h2><br>
-                                <h4>Welcome <b>to Aranea Platform</b></h4>
-                            </div>
-                            <p>Nestled in the heart of Kerala, often referred to as "God's Own 
-                               Country," Aranea Platform is dedicated to fostering 
-                               collaboration and innovation. Our mission is to create a 
-                               seamless environment that supports collaboration between 
-                               various stakeholders, including corporations, ventures, and 
-                               strategic partners.</p><br><br>
-
-                            <div class="section-title">
-                                <h4>Our <b>Inspiration</b></h4>
-                            </div>
-                                <p>With over two decades of experience and a vast network of friends from diverse cultures and locations, 
-                                our CEO, Shynesh Moolayi, has witnessed firsthand the challenges retirees face.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
                 <div class="section-title">
-                    <h2><center>THE NEST HOLLIDAY CITY</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">Holiday Village With Resort Villa, Friendly-Active Retirement 
-                        Living And Health Care Facility</span></center></h3>
+                    <h2><center>VISION <b>and</b> MISSION</center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">At a certain stage in life, one can reflect on a journey lived with dignity, filled with 
-                                responsibilities fulfilled, and enriched by experience, knowledge, and understanding. 
-                                However, this "certain age" also brings new realities: diminished vigor and energy, a 
-                                need for assistance, medical support, or secure surroundings. From being the 
-                                caregiver, one may now require care What better reward for a lifetime of hard work 
-                                than an option that provides the necessary attention and care? A solution that 
-                                facilitates a hassle-free, pleasant life, offering physical, mental, and emotional security.
-                                The Nest - Holiday City is a pragmatic concept that offers housing, support services, 
-                                and personalized care for senior couples, individuals, and young retirees who may 
-                                need assistance with daily life, hygiene maintenance, health, and medication 
-                                management. </p>
+                            <p style="text-align: justify;">Our primary objective is to drive the success of this initiative, along with others, by 
+                                seamlessly integrating the Aranea Platform into our broader ecosystem. By doing so, we seek to create a unified, dynamic 
+                                environment that enhances the potential for growth and innovation across various sectors. The Aranea Platform, with its 
+                                advanced capabilities and robust infrastructure, will serve as the backbone of this integration, enabling smoother 
+                                collaboration and more efficient operations. This strategic move is designed to not only streamline processes but 
+                                also to facilitate the sharing of resources and knowledge, ultimately leading to a more cohesive and synergistic ecosystem. 
+                                By leveraging the strengths of the Aranea Platform, we are positioning ourselves at the forefront of technological advancement, 
+                                ensuring that our initiatives are supported by a solid and adaptable foundation. </p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">It combines the comfort of home with professional, customized care, 
-                                enabling seniors and young retirees to maintain and even improve their quality of life 
-                                This unique project provides Comfortable Living Spaces: Designed to feel like home, 
-                                ensuring residents feel relaxed and secure Personalized Care: Tailored to individual 
-                                needs, from daily activities to medical support  Services: Including hygiene 
-                                maintenance, health monitoring, and medication management Engaging Community: 
-                                A vibrant environment where residents can enjoy social interactions and activities The 
-                                Nest - Holiday City is dedicated to offering a fulfilling, secure, and enriching lifestyle, 
-                                allowing residents to enjoy their golden years with peace and joy.
+                            <p style="text-align: justify;">At the heart of this integration is our commitment to fostering growth within our ecosystem. 
+                                We recognize that innovation and progress often come from collaboration, which is why we are dedicated to building a space 
+                                where different entities can work together effectively. The Aranea Platform will serve as the glue that binds these entities 
+                                together, ensuring that each has the tools and resources necessary to succeed. This approach will not only streamline 
+                                operations but also open up new avenues for innovation and development, driving overall growth within our ecosystem.
                                 </p>
                         </div>
                     </div>
@@ -81,25 +35,26 @@
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> About </b>God's Own Country - KERALA </h2>
+                    <h2><b> A real </b> Game-changer </h2>
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Ancient Wonders In A Tropical Paradise</h3>
+                                <h3><b>Building a </b> Community - <b>Building a </b> Happy Future.</h3>
                             </div>
-                            <p>Kerala, often celebrated as "God's Own Country," is a breathtaking tapestry of natural beauty 
-                                and cultural richness. With its lush green landscapes, tranquil backwaters, and pristine beaches, 
-                                Kerala offers an unparalleled visual feast. The state is renowned for its incredible diversity, 
-                                where vibrant traditions and ancient practices harmoniously coexist with modern life. From the 
-                                vibrant festivals and intricate dance forms to the warm hospitality of its people, Kerala's 
-                                cultural heritage is deeply captivating. </p><br>
-                                <p>The cuisine is a culinary delight, featuring an array 
-                                of aromatic spices and fresh ingredients that create unforgettable flavors. The tropical climate 
-                                enhances the region’s charm, with its pleasant weather and abundant natural resources contributing 
-                                to a relaxed and healthy lifestyle. Kerala's unique blend of scenic splendor, rich culture, and 
-                                serene living makes it a truly exceptional destination.</p>
+                            <p>We believe that collaboration is key to achieving our vision, which is why we are focusing on creating strong partnerships 
+                                among corporations, ventures, and strategic partners. By bringing these diverse groups together under the Aranea Platform, 
+                                we are creating a fertile ground for cooperation and shared success. Corporations will benefit from increased connectivity 
+                                and streamlined processes, while ventures will find a supportive environment where they can innovate and scale. Strategic 
+                                partners, in turn, will gain access to a network of collaborators who share their goals and values, making it easier to work 
+                                on joint projects and achieve common objectives.</p><br>
+
+                                <p>In the long run, our aim is to build a thriving, collaborative ecosystem that benefits all involved. The integration of the 
+                                    Aranea Platform is just the beginning; it is a step toward creating an environment where innovation can flourish and where 
+                                    all participants can achieve their full potential. We are committed to this vision and believe that by working together, 
+                                    we can create something truly transformative. The future we envision is one where the Aranea Platform acts as a catalyst 
+                                    for sustainable growth, driving success not only for individual entities but for the ecosystem as a whole.</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
@@ -112,18 +67,18 @@
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3> <b> Introducing The Nest Retirement Villa with Holiday City with Health care facility</b> </h3>
+                                <h3> <b>The idea of</b> Socializing </h3>
                             </div>
-                            <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p>
-                                    <ul>
-                                        <li>- Corporations</li>
-                                        <li>- Ventures</li>
-                                        <li>- Strategic Partners</li>
-                                    </ul>
+                            <p> In addition to fostering collaboration and innovation within our ecosystem, we also recognize the profound importance of 
+                                socializing and building meaningful connections for a happy and fulfilling future. By integrating the Aranea Platform, 
+                                we are not only creating opportunities for business growth but also for personal connections that can enhance the well-being 
+                                of all involved. We believe that a strong, interconnected community is the foundation of both professional success and personal 
+                                happiness. Through the Aranea Platform, individuals and organizations alike will have the opportunity to engage with a diverse 
+                                network of people, share experiences, and build lasting relationships. These connections will not only drive collaborative 
+                                success but also contribute to a supportive and nurturing environment where everyone can thrive. By prioritizing social 
+                                interaction and meaningful connections, we are ensuring that our ecosystem is not just a place for work, but a community where 
+                                people can find fulfillment and joy in their professional and personal lives, ultimately leading to a happier future for all.
+                            </p><br>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
@@ -192,95 +147,7 @@
             </div>
         </section>
     </div>
-    <footer class="site-footer">
-        <div class="container">
-            <div class="footer-row">
-                <div class="footer-col footer-subscribe-col">
-                    <div class="footer-widget">
-                        <h4>Subscribe HolidayCity and get -20% off</h4>
-                        <p>Aranea presents you Nest- HolidayCity for you and your dear ones. Holiday City
-                            introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
-                        <form class="footer-subscribe-form">
-                            <div class="input-wrapper">
-                                <input type="email" placeholder="Type your address email...">
-                                <button type="submit" class="btn-subscibe">
-                                    Subscription <svg xmlns="http://www.w3.org/2000/svg" width="6" height="6"
-                                        viewBox="0 0 6 6" fill="none">
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M0.116348 5.76479C-0.0136244 5.63481 -0.0136243 5.42409 0.116348 5.29411L4.72561 0.684852L1.76376 0.6848C1.57995 0.684797 1.43095 0.535788 1.43095 0.351979C1.43096 0.16817 1.57997 0.0191656 1.76377 0.019169L5.52909 0.0192342C5.7129 0.0192372 5.8619 0.168239 5.8619 0.352044L5.86197 4.11736C5.86197 4.30117 5.71296 4.45018 5.52916 4.45018C5.34535 4.45018 5.19634 4.30118 5.19633 4.11737L5.19628 1.15552L0.587021 5.76479C0.457048 5.89476 0.246321 5.89476 0.116348 5.76479Z"
-                                            fill="#FBFBFB"></path>
-                                    </svg>
-                                </button>
-                            </div>
-                            <div class="checkbox-custom">
-                                <input type="checkbox" id="subscibecheck">
-                                <label for="subscibecheck">
-                                    Contact Us for more details and inquiry
-                                </label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <div class="footer-col footer-link footer-link-1">
-                    <div class="footer-widget">
-                        <h4> Shop </h4>
-                        <ul>
-                            <li><a href="order-summery.html">Order status</a></li>
-                            <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
-                            <li><a href="privacy-policy.html">Returns</a></li>
-                            <li><a href="checkout.html">Payment Options</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="footer-col footer-link footer-link-2">
-                    <div class="footer-widget">
-                        <h4> Account </h4>
-                        <ul>
-                            <li><a href="product-list.html">Products</a></li>
-                            <li><a href="product.html">Categories</a></li>
-                            <li><a href="cart.html">My Cart</a></li>
-                            <li><a href="my-account.html">My Profile</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="footer-col footer-link footer-link-3">
-                    <div class="footer-widget footer-social-links">
-                        <h4>Share</h4>
-                        <ul>
-                            <li>
-                                <a href="https://www.instagram.com/">
-                                    Instagram
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.facebook.com/messenger/">
-                                    Facebook
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.twitter.com/">
-                                    Twitter
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.youtube.com/">
-                                    Youtube
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-6">
-                        <p>©ARANEA.IN. All rights reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">
         <div class="menu-close-icon">

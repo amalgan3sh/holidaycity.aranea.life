@@ -1,43 +1,6 @@
 
     <!--header end here-->
     <div class="wrapper">
-    <section class="common-banner-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="common-banner-content">
-                            <a href="#" class="back-btn">
-                                <span class="svg-ic">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="11" height="5" viewBox="0 0 11 5"
-                                        fill="none">
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M10.5791 2.28954C10.5791 2.53299 10.3818 2.73035 10.1383 2.73035L1.52698 2.73048L2.5628 3.73673C2.73742 3.90636 2.74146 4.18544 2.57183 4.36005C2.40219 4.53467 2.12312 4.53871 1.9485 4.36908L0.133482 2.60587C0.0480403 2.52287 -0.000171489 2.40882 -0.000171488 2.2897C-0.000171486 2.17058 0.0480403 2.05653 0.133482 1.97353L1.9485 0.210321C2.12312 0.0406877 2.40219 0.044729 2.57183 0.219347C2.74146 0.393966 2.73742 0.673036 2.5628 0.842669L1.52702 1.84888L10.1383 1.84875C10.3817 1.84874 10.5791 2.04609 10.5791 2.28954Z"
-                                            fill="white"></path>
-                                    </svg>
-                                </span>
-                                Back to Home
-                            </a>
-                            <div class="section-title">
-                                <h2>About <b>Us</b></h2><br>
-                                <h4>Welcome <b>to Aranea Platform</b></h4>
-                            </div>
-                            <p>Nestled in the heart of Kerala, often referred to as "God's Own 
-                               Country," Aranea Platform is dedicated to fostering 
-                               collaboration and innovation. Our mission is to create a 
-                               seamless environment that supports collaboration between 
-                               various stakeholders, including corporations, ventures, and 
-                               strategic partners.</p><br><br>
-
-                            <div class="section-title">
-                                <h4>Our <b>Inspiration</b></h4>
-                            </div>
-                                <p>With over two decades of experience and a vast network of friends from diverse cultures and locations, 
-                                our CEO, Shynesh Moolayi, has witnessed firsthand the challenges retirees face.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
                 <div class="section-title">
@@ -81,7 +44,7 @@
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> About </b>God's Own Country - KERALA </h2>
+                    <h2><b> About </b> God's Own Country - KERALA </h2>
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 col-12">
@@ -192,95 +155,6 @@
             </div>
         </section>
     </div>
-    <footer class="site-footer">
-        <div class="container">
-            <div class="footer-row">
-                <div class="footer-col footer-subscribe-col">
-                    <div class="footer-widget">
-                        <h4>Subscribe HolidayCity and get -20% off</h4>
-                        <p>Aranea presents you Nest- HolidayCity for you and your dear ones. Holiday City
-                            introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
-                        <form class="footer-subscribe-form">
-                            <div class="input-wrapper">
-                                <input type="email" placeholder="Type your address email...">
-                                <button type="submit" class="btn-subscibe">
-                                    Subscription <svg xmlns="http://www.w3.org/2000/svg" width="6" height="6"
-                                        viewBox="0 0 6 6" fill="none">
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M0.116348 5.76479C-0.0136244 5.63481 -0.0136243 5.42409 0.116348 5.29411L4.72561 0.684852L1.76376 0.6848C1.57995 0.684797 1.43095 0.535788 1.43095 0.351979C1.43096 0.16817 1.57997 0.0191656 1.76377 0.019169L5.52909 0.0192342C5.7129 0.0192372 5.8619 0.168239 5.8619 0.352044L5.86197 4.11736C5.86197 4.30117 5.71296 4.45018 5.52916 4.45018C5.34535 4.45018 5.19634 4.30118 5.19633 4.11737L5.19628 1.15552L0.587021 5.76479C0.457048 5.89476 0.246321 5.89476 0.116348 5.76479Z"
-                                            fill="#FBFBFB"></path>
-                                    </svg>
-                                </button>
-                            </div>
-                            <div class="checkbox-custom">
-                                <input type="checkbox" id="subscibecheck">
-                                <label for="subscibecheck">
-                                    Contact Us for more details and inquiry
-                                </label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <div class="footer-col footer-link footer-link-1">
-                    <div class="footer-widget">
-                        <h4> Shop </h4>
-                        <ul>
-                            <li><a href="order-summery.html">Order status</a></li>
-                            <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
-                            <li><a href="privacy-policy.html">Returns</a></li>
-                            <li><a href="checkout.html">Payment Options</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="footer-col footer-link footer-link-2">
-                    <div class="footer-widget">
-                        <h4> Account </h4>
-                        <ul>
-                            <li><a href="product-list.html">Products</a></li>
-                            <li><a href="product.html">Categories</a></li>
-                            <li><a href="cart.html">My Cart</a></li>
-                            <li><a href="my-account.html">My Profile</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="footer-col footer-link footer-link-3">
-                    <div class="footer-widget footer-social-links">
-                        <h4>Share</h4>
-                        <ul>
-                            <li>
-                                <a href="https://www.instagram.com/">
-                                    Instagram
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.facebook.com/messenger/">
-                                    Facebook
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.twitter.com/">
-                                    Twitter
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.youtube.com/">
-                                    Youtube
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-6">
-                        <p>©ARANEA.IN. All rights reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">
         <div class="menu-close-icon">
