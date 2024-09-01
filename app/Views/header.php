@@ -55,15 +55,15 @@
                                         <li class="col-md-3 col-12">
                                             <ul class="megamenu-list arrow-list">
                                                 <li class="list-title"><span>Project Information</span></li>
-                                                <li><a href="project.html">About Aranea Platform</a></li>
-                                                <li><a href="project.html">The Nest Holiday City</a></li>
-                                                <li><a href="project.html">Target Audience</a></li>
-                                                <li><a href="project.html">New Retirement Trends</a></li>
-                                                <li><a href="project.html">Proposed Project Location</a></li>
-                                                <li><a href="project.html">Services & Facilities</a></li>
-                                                <li><a href="project.html">Plan & Elevation Phase 1</a></li>
-                                                <li><a href="project.html">Project Layout & Features</a></li>
-                                                <li><a href="project.html">Collaboration Options</a></li>
+                                                <li><a href="about.html">About Aranea Platform</a></li>
+                                                <li><a href="overview">The Nest Holiday City</a></li>
+                                                <li><a href="target_audience">Target Audience</a></li>
+                                                <li><a href="new_retirement_trends">New Retirement Trends</a></li>
+                                                <li><a href="proposed_project">Proposed Project Location</a></li>
+                                                <li><a href="services_and_facilities">Services & Facilities</a></li>
+                                                <li><a href="plan_and_elevation">Plan & Elevation Phase 1</a></li>
+                                                <li><a href="project_layout_and_features">Project Layout & Features</a></li>
+                                                <li><a href="collaboration_options">Collaboration Options</a></li>
                                             </ul>
                                         </li>
                                         

@@ -28,6 +28,41 @@ class Home extends BaseController
         return view('header') . view('vision_and_mission');
     }
 
+    public function TargetAudience(): string
+    {
+        return view('header') . view('target_audience');
+    }
+
+    public function NewRetirementTrends(): string
+    {
+        return view('header') . view('new_retirement_trends');
+    }
+
+    public function ProposedProject(): string
+    {
+        return view('header') . view('proposed_project');
+    }
+
+    public function ServicesAndFacilities(): string
+    {
+        return view('header') . view('services_and_facilities');
+    }
+
+    public function PlanAndElevation(): string
+    {
+        return view('header') . view('plan_and_elevation');
+    }
+
+    public function ProjectLayoutAndFeatures(): string
+    {
+        return view('header') . view('project_layout_and_features');
+    }
+
+    public function CollaborationOptions(): string
+    {
+        return view('header') . view('collaboration_options');
+    }
+
     public function SubmitSurvey(){
 
         $json = $this->request->getJSON();
