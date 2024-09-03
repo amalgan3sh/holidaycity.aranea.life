@@ -52,7 +52,7 @@
                             <div class="section-title">
                                 <h3>Ancient Wonders In A Tropical Paradise</h3>
                             </div>
-                            <p>Kerala, often celebrated as "God's Own Country," is a breathtaking tapestry of natural beauty 
+                            <p>Kerala, often celebrated as "God's Own Country", is a breathtaking tapestry of natural beauty 
                                 and cultural richness. With its lush green landscapes, tranquil backwaters, and pristine beaches, 
                                 Kerala offers an unparalleled visual feast. The state is renowned for its incredible diversity, 
                                 where vibrant traditions and ancient practices harmoniously coexist with modern life. From the 
