@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="modern houses - Workdo.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
-    <title>The Nest - HolidayCity</title>
+    <title>TEAK FOREST - The Nest Ecocity</title>
     <meta name="description" content="modern houses - Workdo.">
     <meta name="keywords" content="modern houses - Workdo.">
     <link rel="shortcut icon" href="assets/images/favicon.png">
@@ -56,7 +56,7 @@
                                             <ul class="megamenu-list arrow-list">
                                                 <li class="list-title"><span>Project Information</span></li>
                                                 <li><a href="about.html">About Aranea Platform</a></li>
-                                                <li><a href="overview">The Nest Holiday City</a></li>
+                                                <li><a href="overview">The Nest Eco City</a></li>
                                                 <li><a href="target_audience">Target Audience</a></li>
                                                 <li><a href="new_retirement_trends">New Retirement Trends</a></li>
                                                 <li><a href="proposed_project">Proposed Project Location</a></li>

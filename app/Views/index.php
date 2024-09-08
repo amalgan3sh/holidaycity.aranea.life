@@ -10,7 +10,7 @@
                                 <div class="swiper-slide home-left-item">
                                     <div class="home-left-item-inner">
                                         <div class="banner-image">
-                                            <img src="assets/images/nest_banner.jpg" alt="">
+                                            <img src="assets/images/teak_forest.jpeg" alt="">
                                             <div class="tooltip-custom" style="top: 23%;right: 27%;left: auto; ">
                                                 <div class="tool-ic">+</div>
                                             </div>
@@ -54,7 +54,7 @@
                                                         fill="#FFE7D9" />
                                                     <rect x="31.5" y="0.5" width="37" height="31" rx="15.5" transform="rotate(90 31.5 0.5)" stroke="#FFE7D9" />
                                                 </svg>
-                                                Discover <br> The Nest Holiday City
+                                                Discover <br> Teak Forest
                                             </a>
                                             <p>Welcome to The Nest Holiday City, a serene living environment designed for senior couples, individuals, and young retirees. Nestled in the heart of Kerala, The Nest offers personalized care and professional support, ensuring a high quality of life for our residents.</p>
                                         </div>
@@ -96,7 +96,7 @@
                                         </svg>
                                         Kerala, India
                                     </div>
-                                        <h3><a href="product.html">Discover The Nest Holiday City</a>
+                                        <h3><a href="product.html">Discover Teak Forest : The Nest Ecocity City</a>
                                         </h3>
                                         <ul class="product-tag">
                                             <li> <span class="badge"><svg xmlns="http://www.w3.org/2000/svg" width="12"
@@ -114,7 +114,7 @@
                                                     </svg> 4 Rooms</span>
                                             </li>
                                         </ul>
-                                        <p>Welcome to The Nest Holiday City, where modern living meets the tranquility of nature. Our homes are designed to provide comfort and luxury in a serene environment, perfect for senior couples, individuals, and young retirees.</p>
+                                        <p>Welcome to The Teak Forest, where modern living meets the tranquility of nature. Our homes are designed to provide comfort and luxury in a serene environment, perfect for senior couples, individuals, and young retirees.</p>
                                         <div class="price">
                                             <ins>3,459,000 <span class="currency-type">INR</span></ins>
                                         </div>
@@ -263,7 +263,7 @@
         <section class="category-section  padding-bottom" id="CategorySec">
             <div class="container">
             <div class="section-title big-title">
-                <h2>The Nest - </br>Holiday City</h2>
+                <h2>Teak Forest - </br>The Nest Ecocity</h2>
             </div>
             <div class="row row-gap">
                 <div class="col-lg-6 col-md-6 col-12">
