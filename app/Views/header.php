@@ -119,11 +119,49 @@
                     </a>
                 </div>
                 <ul class="menu-right d-flex justify-content-end align-items-center">
-                    <li class="contact-header">
-                        <a href="survey">
-                            <span>Survey</span>
-                        </a>
-                    </li>
+                <li class="contact-header">
+                    <a href="survey" class="dropdown">
+                        <span>Options</span>
+                    </a>
+                    <ul class="dropdown-content">
+                        <li><a href="https://careers.aranea.in/" target="_blank">Employment</a></li>
+                        <li><a href="http://collaboration.aranea.in/" target="_blank">Collaboration</a></li>
+                        <li><a href="survey" target="_blank">Survey</a></li>
+                    </ul>
+                </li>
+<style>
+    .contact-header {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content li {
+    list-style: none;
+    padding: 8px;
+}
+
+.dropdown-content li a {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+.contact-header:hover .dropdown-content {
+    display: block;
+}
+
+.contact-header a:hover {
+    background-color: #ddd;
+}
+</style>
                     <li class="profile-header">
                         <a href="my-account.html">
                             <svg xmlns="http://www.w3.org/2000/svg" width="15" height="18" viewBox="0 0 15 18" fill="none">
