@@ -43,18 +43,23 @@
                             <div class="section-title">
                                 <h3><b>Building a </b> Community - <b>Building a </b> Happy Future.</h3>
                             </div>
-                            <p>We believe that collaboration is key to achieving our vision, which is why we are focusing on creating strong partnerships 
-                                among corporations, ventures, and strategic partners. By bringing these diverse groups together under the Aranea Platform, 
-                                we are creating a fertile ground for cooperation and shared success. Corporations will benefit from increased connectivity 
-                                and streamlined processes, while ventures will find a supportive environment where they can innovate and scale. Strategic 
-                                partners, in turn, will gain access to a network of collaborators who share their goals and values, making it easier to work 
-                                on joint projects and achieve common objectives.</p><br>
-
-                                <p>In the long run, our aim is to build a thriving, collaborative ecosystem that benefits all involved. The integration of the 
-                                    Aranea Platform is just the beginning; it is a step toward creating an environment where innovation can flourish and where 
-                                    all participants can achieve their full potential. We are committed to this vision and believe that by working together, 
-                                    we can create something truly transformative. The future we envision is one where the Aranea Platform acts as a catalyst 
-                                    for sustainable growth, driving success not only for individual entities but for the ecosystem as a whole.</p>
+                            <p style="text-align: justify;">
+                                Our vision is to create a groundbreaking, sustainable, and eco-friendly urban development that sets a new standard for future living. 
+                                Teak Forest: The Nest Eco City will be an exemplar of how luxury and sustainability can coalesce in perfect balance, offering a lifestyle 
+                                where cutting-edge modern amenities exist in seamless harmony with nature. We aim to reimagine urban development by integrating renewable 
+                                energy sources, innovative infrastructure, and responsible land use to craft a self-sustaining community. Every facet of this eco-city will 
+                                be designed with environmental preservation in mind, ensuring that the surrounding natural ecosystems are protected and nurtured alongside 
+                                human habitation.
+                            </p>
+                            <p style="text-align: justify;">
+                                Through a holistic approach to design, we will foster a community that not only thrives on modern conveniences but also places environmental 
+                                stewardship at its core. Residents will enjoy an enhanced quality of life, enriched by the natural beauty that surrounds them, while playing 
+                                an active role in conserving the planet’s resources. By implementing renewable energy solutions, reducing waste, and promoting sustainable 
+                                practices, Teak Forest: The Nest Eco City will serve as a living example of responsible urban growth. This community will not only meet 
+                                the needs of its present inhabitants but will also pave the way for future generations to enjoy a healthier, more sustainable world. 
+                                Our ultimate goal is to create a society where human progress and environmental protection go hand in hand, ensuring a vibrant, thriving 
+                                future for all.
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
@@ -69,15 +74,25 @@
                             <div class="section-title">
                                 <h3> <b>The idea of</b> Socializing </h3>
                             </div>
-                            <p> In addition to fostering collaboration and innovation within our ecosystem, we also recognize the profound importance of 
-                                socializing and building meaningful connections for a happy and fulfilling future. By integrating the Aranea Platform, 
-                                we are not only creating opportunities for business growth but also for personal connections that can enhance the well-being 
-                                of all involved. We believe that a strong, interconnected community is the foundation of both professional success and personal 
-                                happiness. Through the Aranea Platform, individuals and organizations alike will have the opportunity to engage with a diverse 
-                                network of people, share experiences, and build lasting relationships. These connections will not only drive collaborative 
-                                success but also contribute to a supportive and nurturing environment where everyone can thrive. By prioritizing social 
-                                interaction and meaningful connections, we are ensuring that our ecosystem is not just a place for work, but a community where 
-                                people can find fulfillment and joy in their professional and personal lives, ultimately leading to a happier future for all.
+                            <p> Our mission is to design and bring to life a state-of-the-art eco-city that harmonizes the conveniences of 
+                                modern living with the serenity of natural surroundings. Teak Forest: The Nest Eco City is not just a residential 
+                                development; it is a visionary project where cutting-edge technology meets environmental stewardship. 
+                                Through meticulous urban planning and the adoption of sustainable architectural practices, we aim to create 
+                                a space that fosters both economic vitality and environmental responsibility. This eco-city will blend luxury 
+                                living with an unwavering commitment to green technologies, offering a lifestyle where residents can enjoy 
+                                modern amenities while staying connected to the beauty of nature. From renewable energy solutions to efficient 
+                                waste management systems, every aspect of the city will be designed to minimize its ecological footprint.
+                            </p>
+                            <p>
+                                By integrating these advanced, sustainable practices, Teak Forest: The Nest Eco City will stand as a blueprint 
+                                for the cities of tomorrow. Our project will not only cater to the present needs of its inhabitants but also 
+                                focus on long-term sustainability, ensuring that future generations inherit a thriving, environmentally conscious 
+                                community. This development is more than just a housing project; it is a model for scalable, sustainable urban 
+                                living, one that can be adapted and implemented in cities worldwide. We believe that by encouraging residents to 
+                                actively participate in the preservation of natural resources, we can create a culture of sustainability that 
+                                enhances quality of life while contributing to global environmental conservation efforts. Through this unique 
+                                vision, we aim to demonstrate that luxury and sustainability are not mutually exclusive, but can coexist to 
+                                create vibrant, resilient communities.
                             </p><br>
                         </div>
                     </div>
@@ -371,7 +386,7 @@
                     <a href="faqs.html">FAQs</a>
                 </li>
                 <li class="mobile-item">
-                    <a href="contact-us.html">Contact Us</a>
+                    <a href="contact_details">Contact Us</a>
                 </li>
             </ul>
         </div>

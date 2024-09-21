@@ -4,7 +4,7 @@
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
                 <div class="section-title">
-                    <h2><center>THE NEST HOLLIDAY CITY</center></h2><br>
+                    <h2><center>THE NEST ECO CITY</center></h2><br>
                     <h3><center><span style="color: #A9A9A9;">Holiday Village With Resort Villa, Friendly-Active Retirement 
                         Living And Health Care Facility</span></center></h3>
                 </div>
@@ -18,7 +18,7 @@
                                 caregiver, one may now require care What better reward for a lifetime of hard work 
                                 than an option that provides the necessary attention and care? A solution that 
                                 facilitates a hassle-free, pleasant life, offering physical, mental, and emotional security.
-                                The Nest - Holiday City is a pragmatic concept that offers housing, support services, 
+                                The Nest - Eco City is a pragmatic concept that offers housing, support services, 
                                 and personalized care for senior couples, individuals, and young retirees who may 
                                 need assistance with daily life, hygiene maintenance, health, and medication 
                                 management. </p>
@@ -33,7 +33,7 @@
                                 needs, from daily activities to medical support  Services: Including hygiene 
                                 maintenance, health monitoring, and medication management Engaging Community: 
                                 A vibrant environment where residents can enjoy social interactions and activities The 
-                                Nest - Holiday City is dedicated to offering a fulfilling, secure, and enriching lifestyle, 
+                                Nest - Eco City is dedicated to offering a fulfilling, secure, and enriching lifestyle, 
                                 allowing residents to enjoy their golden years with peace and joy.
                                 </p>
                         </div>
@@ -75,7 +75,7 @@
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3> <b> Introducing The Nest Retirement Villa with Holiday City with Health care facility</b> </h3>
+                                <h3> <b> Introducing The Nest Retirement Villa by Nest Eco City with Health care facility</b> </h3>
                             </div>
                             <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
                                 designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
@@ -378,7 +378,7 @@
                     <a href="faqs.html">FAQs</a>
                 </li>
                 <li class="mobile-item">
-                    <a href="contact-us.html">Contact Us</a>
+                    <a href="contact_details">Contact Us</a>
                 </li>
             </ul>
         </div>

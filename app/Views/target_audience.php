@@ -1,49 +1,6 @@
 
     <!--header end here-->
     <div class="wrapper">
-        <section class="about-us-page padding-bottom padding-top">
-            <div class="container">
-                <div class="section-title">
-                    <h3><center><span style="color: #A9A9A9;">Category - A</span></center></h3><br>
-                    <h3><center>Retirement Community</center></h3>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-12">
-                        <div class="about-us-content">
-                            <p style="text-align: justify;">      Welcome Back Home to Kerala for Non-Residents Reconnect with Your Roots in God's Own Country Kerala, known 
-                                for its lush landscapes, rich culture, and warm hospitality, welcomes you back home. Whether you’ve been away for a 
-                                few years or several decades, there’s always a special place for you here .Why  Return to Kerala? Natural Beauty: 
-                                Rejuvenate in the serene backwaters, green hills, and pristine beaches .Cultural  Heritage: Rediscover traditional 
-                                festivals, art forms, and delicious cuisine .Quality  of Life: Enjoy a peaceful, slower pace of life with modern amenities. 
-                                Healthcare Excellence: Access top-tier healthcare services and facilities opportunity. : Reconnect with family, friends, 
-                                and the close-knit community .Our Offerings The Nest Retirement Villa with Holiday City: Ideal for those seeking a 
-                                luxurious and peaceful retirement, surrounded by nature and community .Support  for NRIs: Assistance with settling 
-                                back, including property services, healthcare, and community programs . <br><br>Cultural and Recreational Activities: Engage in 
-                                a variety of activities to make the most of your time back home . Embrace Your Heritage and Build New Memories Kerala 
-                                is ready to welcome you with open arms. Come back home to where your heart truly belongs.
-                                </p>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-12">
-                        <div class="about-us-content">
-                            <p style="text-align: justify;">      Kerala's Non-Resident Indian (NRI) population is a vital part of the state's identity, 
-                                with an estimated 3.5 million Keralites living abroad. The Gulf Cooperation Council (GCC) countries, including 
-                                Saudi Arabia, the UAE, Kuwait, Qatar, Bahrain, and Oman, are home to a significant portion of this diaspora, 
-                                with approximately 2.5 million Keralites residing in these regions. This connection to the GCC countries has 
-                                deepened over decades, fostering a strong cultural and economic bond between Kerala and these nations. Beyond the Gulf, 
-                                many Keralites have established themselves in other global hubs like the United States, the United Kingdom, Canada, and 
-                                Australia. These Keralites contribute to the economic and social fabric of their host countries while maintaining strong 
-                                ties to their homeland. <br><br>The presence of such a large and dispersed population has not only enriched Kerala's cultural 
-                                landscape but also bolstered its economy through remittances and investments. The global reach of Kerala's NRI community 
-                                underscores the state's unique position in the world, where its people are recognized for their resilience, adaptability, 
-                                and commitment to preserving their cultural heritage, no matter where they reside.
-                                </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
@@ -52,24 +9,33 @@
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3><center>Overall Annual Global Retirement Index-2021</center></h3>
+                            <h3><center> Retirement Community</center> </h3>
                             </div>
-                            <p>The Overall Annual Global Retirement Index 2021 offers a comprehensive analysis of the best countries for retirees, 
-                                considering various factors such as healthcare quality, cost of living, housing, climate, and quality of life. 
-                                Developed by experts in international living and finance, the index provides a valuable resource for those planning 
-                                to retire abroad. In 2021, the index highlighted countries where retirees can enjoy a fulfilling and comfortable life 
-                                while making the most of their savings. It evaluated destinations across the globe, including Latin America, Europe, 
-                                and Asia, identifying those that offer an ideal blend of affordability, healthcare access, cultural richness, and natural 
-                                beauty. </p><br>
-                                <p>The rankings serve as a guide for retirees seeking to balance financial security with lifestyle aspirations, 
-                                helping them make informed decisions about where to spend their golden years. The Global Retirement Index not only 
-                                reflects the current trends in retirement living but also anticipates future shifts in global retiree preferences, 
-                                making it an essential tool for anyone considering international retirement.</p>
+                            <p style="text-align: justify;">
+                                <b>Overview:</b>
+                                The development offers a perfect retreat for retirees seeking a peaceful,
+                                eco-friendly environment to enjoy their post-retirement life.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Facilities:</b>
+                                With luxury farmhouses and resort villas amidst natural surroundings, the
+                                community is designed to provide a high quality of life and wellness services.
+                                Residents can also enjoy amenities like the healthcare facilities and the exotic park.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Appeal:</b>
+                                The serene, nature-integrated design caters to retirees who want to spend
+                                their retirement in a sustainable and luxurious community
+                            </p>
+                            <p>
+                            <img src="assets/images/target_audience_1.png">
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-6 col-12"><br>
+                        <h3><center><span style="color: #A9A9A9;">Category - A</span></center></h3><br><br><br>
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/target_audience.png">
+                            <img src="assets/images/target_audience.jpeg">
                         </div>
                     </div>
                 </div>
@@ -79,27 +45,29 @@
                         <h3><center><span style="color: #A9A9A9;">Category - B</span></center></h3><br>
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3><center> Second Homes: A Retreat and a Wise Investment</center> </h3>
+                                <h3><center> Back-to-Home (NRI’s)</center> </h3>
                             </div>
-                            <p> 
-                                <b>As India becomes the most populous nation, Kerala ages</b>
-                                 In past 60 years, percentage of people aged 60 and over in Kerala shot up from 5.1 percent to 16.5 percent — the 
-                                highest in any Indian state.
-                                 India Population Seniors
-                                 Kerala is aging faster than the rest of India. Its 60 plus population, 5.1 per cent of the total in 1961, was just 
-                                below the national 5.6 per cent. Since 1980, Kerala has overtaken the rest and the 2001 comparison is 10.5 per 
-                                cent to 7.5; by 2011, almost 13 per cent of the population is already past 60 years
-                            </p><br>
-                            <p>
-                                The concept of a Second Home has become increasingly popular, blending the idea of a tranquil retreat with a sound financial 
-                                investment. For many, a second home serves as a personal sanctuary—a place to unwind, reconnect with nature, and escape the 
-                                stresses of daily life. Whether nestled in a serene countryside, perched along a scenic coastline, or situated in a vibrant 
-                                cultural hub, these homes offer a perfect getaway that is both restorative and enriching. Beyond their immediate use for 
-                                relaxation, second homes are also seen as valuable assets. They can appreciate over time, generating wealth and providing 
-                                opportunities for rental income when not in use by the owners. As a dual-purpose investment, a second home offers not only 
-                                the tangible benefits of a peaceful retreat but also the potential for long-term financial growth, making it an attractive 
-                                option for those seeking both personal enjoyment and asset diversification.     
+                            <p style="text-align: justify;"> 
+                                <b>Overview : </b>
+                                The project offers an ideal second home for non-resident
+                                Indians (NRIs) who seek to maintain a connection with their homeland
+                                while enjoying the luxury of modern, eco-friendly living.
                             </p>
+                            <p style="text-align: justify;">
+                                <b>Facilities : </b>
+                                The farmhouses and resort villas offer spacious, modern
+                                living options that come with the benefit of being in a self-sustaining
+                                community. NRIs can invest in homes that provide privacy and
+                                tranquility while still being connected to essential services.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Appeal : </b>
+                                NRIs looking for a secure, comfortable second home or
+                                vacation spot in India, where they can enjoy the conveniences of
+                                modern life along with natural beauty, will find this development
+                                appealing.
+                            </p>
+                            
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
@@ -118,21 +86,27 @@
                         <h3><center><span style="color: #A9A9A9;">Category - C</span></center></h3><br>
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3><center>Overall Annual Global Retirement Index 2021</center></h3>
+                                <h3><center>"Guest is God” (Domestic and International Tourists)</center></h3>
                             </div>
-                            <p>Interestingly, foreigners also find Kerala extremely charming and beautiful. In 2022, around 3,45,549 foreign tourists had 
-                                visited the state. Meanwhile, it went up to 6,49,057 persons in 2023.
-                                 In the first nine months of calendar year 2023, almost 1.6 crore domestic tourists visited Kerala, clocking a 19 per cent 
-                                growth over the previous year, Kerala Tourism officials visiting Gujarat said on Tuesday. The tourist numbers for the state 
-                                are expected to cross two crore in 2024.
-                            </p><br>
-                            <p>A guest house for foreigners offers a unique and welcoming accommodation experience, catering specifically to the needs and 
-                                preferences of international travelers. These guest houses are designed to provide a comfortable and homely atmosphere, 
-                                often blending local charm with modern amenities to create an authentic yet convenient stay. They serve as a cultural bridge, 
-                                where guests can immerse themselves in the local culture while enjoying the privacy and comfort of a well-maintained residence. 
-                                Whether located in bustling cities, serene countryside, or popular tourist destinations, guest houses for foreigners offer a 
-                                personalized and intimate alternative to traditional hotels, making them an ideal choice for travelers seeking a more immersive 
-                                and memorable experience.
+                            <p style="text-align: justify;"> 
+                                <b>Overview : </b>
+                                The project offers an ideal second home for non-resident
+                                Indians (NRIs) who seek to maintain a connection with their homeland
+                                while enjoying the luxury of modern, eco-friendly living.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Facilities : </b>
+                                The farmhouses and resort villas offer spacious, modern
+                                living options that come with the benefit of being in a self-sustaining
+                                community. NRIs can invest in homes that provide privacy and
+                                tranquility while still being connected to essential services.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Appeal : </b>
+                                NRIs looking for a secure, comfortable second home or
+                                vacation spot in India, where they can enjoy the conveniences of
+                                modern life along with natural beauty, will find this development
+                                appealing.
                             </p>
                         </div>
                     </div>
@@ -148,24 +122,148 @@
                         <h3><center><span style="color: #A9A9A9;">Category - D</span></center></h3><br>
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3> <center> Early Retirement with Remote Work</center> </h3>
+                                <h3><center> Early Retirement with Remote Work</center> </h3>
                             </div>
-                            <p> So Young!
-                                 Can you imagine being 40 or younger and moving to a retirement community? Per 3rd Hour Today, this newer trend is 
-                                indeed happening, having gained momentum during the Covid-19 pandemic and period of social isolation. Making this 
-                                option inviting is the continual ability for folks to work remotely. This affords young people living in retirement communities 
-                                the ability to work from home in the morning and play rounds of golf or hang out by the pool later in the day.
-                            </p><br>
-                            <p>
-                                    Read On…
-                                 Let’s learn why millennials are bursting onto the retirement scene in communities across America. And let’s also hear how 
-                                some seniors really feel about “youngsters” moving in!
+                            <p style="text-align: justify;"> 
+                                <b>Overview : </b>
+                                The project offers an ideal second home for non-resident
+                                Indians (NRIs) who seek to maintain a connection with their homeland
+                                while enjoying the luxury of modern, eco-friendly living.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Facilities : </b>
+                                The farmhouses and resort villas offer spacious, modern
+                                living options that come with the benefit of being in a self-sustaining
+                                community. NRIs can invest in homes that provide privacy and
+                                tranquility while still being connected to essential services.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Appeal : </b>
+                                NRIs looking for a secure, comfortable second home or
+                                vacation spot in India, where they can enjoy the conveniences of
+                                modern life along with natural beauty, will find this development
+                                appealing.
                             </p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
                             <img src="assets/images/target_d.avif">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container">
+                <div class="section-title text-center">
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-12">
+                        <h3><center><span style="color: #A9A9A9;">Category - E</span></center></h3><br>
+                        <div class="abt-shp-column-left">
+                            <div class="section-title">
+                                <h3><center> Site Visitors</center></h3>
+                            </div>
+                            <p style="text-align: justify;"> 
+                                <b>Overview : </b>
+                                The project is also designed to cater to day visitors or site
+                                visitors interested in exploring the exotic park, healthcare facilities, and
+                                sustainable living model.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Facilities : </b>
+                                The exotic park and waste management facilities, along with
+                                other attractions, will provide visitors with an immersive experience of
+                                sustainable living in a luxury setting.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Appeal : </b>
+                                Individuals and groups interested in eco-tourism, sustainable
+                                development, and healthcare integration will find the Teak Forest
+                                project a perfect destination for exploration and education.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-right">
+                            <img src="assets/images/target_c.webp">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row align-items-center row-reverse">
+                    <div class="col-md-6 col-12">
+                        <h3><center><span style="color: #A9A9A9;">Category - F</span></center></h3><br>
+                        <div class="abt-shp-column-left">
+                            <div class="section-title">
+                                <h3><center> Mineral Water Management System (Public and Operators)</center> </h3>
+                            </div>
+                            <p style="text-align: justify;"> 
+                                <b>Overview : </b>
+                                The mineral water management system, integrated into
+                                the project, provides fresh, mineral-rich water to both the local
+                                public and operators involved in the water management and
+                                distribution industry.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Facilities : </b>
+                                A 2 lakh liter-per-day water management system ensures
+                                efficient water storage and distribution, contributing to local and
+                                global water conservation efforts.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Appeal : </b>
+                                This aspect will attract operators looking for sustainable
+                                water solutions, as well as the public interested in fresh, natural
+                                mineral water.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-right">
+                            <img src="assets/images/target_f.avif">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container">
+                <div class="section-title text-center">
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-12">
+                        <h3><center><span style="color: #A9A9A9;">Category - G</span></center></h3><br>
+                        <div class="abt-shp-column-left">
+                            <div class="section-title">
+                                <h3><center>Hydropower Plant Operators:</center></h3>
+                            </div>
+                            <p style="text-align: justify;"> 
+                                <b>Overview : </b>
+                                The 5 MW hydropower plant will attract investors and
+                                operators involved in the renewable energy sector, particularly those
+                                interested in sustainable energy solutions.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Facilities : </b>
+                                The hydropower plant offers renewable energy to the
+                                community and surplus energy to the grid, making it an attractive
+                                investment for energy operators.
+                            </p>
+                            <p style="text-align: justify;">
+                                <b>Appeal : </b>
+                                Renewable energy operators and companies seeking
+                                sustainable energy generation methods will find the project to be a
+                                lucrative and eco-friendly investment opportunity.
+                            </p>
+                            <p style="text-align: justify;">&nbsp&nbsp&nbsp&nbsp
+                                This breakdown helps position Teak Forest: The Nest Eco City as a
+                                destination catering to a wide variety of individuals and organizations
+                                who value luxury, sustainability, and modern living. It ensures that all
+                                potential stakeholders have something to gain from this visionary project.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-right">
+                            <img src="assets/images/target_g.jpg">
                         </div>
                     </div>
                 </div>
@@ -395,7 +493,7 @@
                     <a href="faqs.html">FAQs</a>
                 </li>
                 <li class="mobile-item">
-                    <a href="contact-us.html">Contact Us</a>
+                    <a href="contact_details">Contact Us</a>
                 </li>
             </ul>
         </div>

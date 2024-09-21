@@ -33,34 +33,119 @@ class Home extends BaseController
         return view('header') . view('target_audience');
     }
 
-    public function NewRetirementTrends(): string
-    {
-        return view('header') . view('new_retirement_trends');
-    }
-
     public function ProposedProject(): string
     {
         return view('header') . view('proposed_project');
     }
 
-    public function ServicesAndFacilities(): string
+    public function CollaborationOpportunities(): string
     {
-        return view('header') . view('services_and_facilities');
+        return view('collaboration_opportunities');
     }
 
-    public function PlanAndElevation(): string
+    public function ProjectComponents(): string
     {
-        return view('header') . view('plan_and_elevation');
+        return view('project_components');
     }
 
-    public function ProjectLayoutAndFeatures(): string
+    public function BusinessModel(): string
     {
-        return view('header') . view('project_layout_and_features');
+        return view('business_model');
     }
 
-    public function CollaborationOptions(): string
+    public function BusinessStrategy(): string
     {
-        return view('header') . view('collaboration_options');
+        return view('business_strategy');
+    }
+
+    public function MarketAnalytics(): string
+    {
+        return view('market_analytics');
+    }
+
+    public function TechnicalFeasibility(): string
+    {
+        return view('technical_feasibility');
+    }
+
+    public function ProjectImplementationStrategy(): string
+    {
+        return view('project_implementation_strategy');
+    }
+
+    public function FinancialAnalysis(): string
+    {
+        return view('financial_analysis');
+    }
+
+    public function KeralaOverview(): string
+    {
+        return view('location');
+    }
+
+    public function TouristDestinations(): string
+    {
+        return view('tourist_destinations');
+    }
+
+    public function CulturalHeritage(): string
+    {
+        return view('cultural_heritage');
+    }
+
+    public function HealthcareExcellence(): string
+    {
+        return view('healthcare_excellence');
+    }
+
+    public function NaturalBeauty(): string
+    {
+        return view('natural_beauty');
+    }
+
+    public function ProjectLocationandSiteAnalysis(): string
+    {
+        return view('project_location_and_site_analysis');
+    }
+
+    public function RoadMap(): string
+    {
+        return view('road_map');
+    }
+
+    public function DirectorPositions(): string
+    {
+        return view('director_position');
+    }
+
+    public function InvestmentPlans(): string
+    {
+        return view('investment_plan');
+    }
+
+    public function ROIDetails(): string
+    {
+        return view('roi_details');
+    }
+
+    public function SecurityInformation(): string
+    {
+        return view('security_information');
+    }
+
+    public function PartnershipModels(): string
+    {
+        return view('partnership_models');
+    }
+
+    public function OurCompanyTeam(): string
+    {
+        return view('our_company_team');
+    }
+
+    public function ContactDetails(): string
+    {
+        return view('contact_details');
     }
 
     public function SubmitSurvey(){

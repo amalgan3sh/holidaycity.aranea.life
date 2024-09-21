@@ -31,7 +31,8 @@
                                                 Welcome to 
                                                 <br> Aranea Platform
                                             </a>
-                                            <p>Nestled in the heart of Kerala, often referred to as "God's Own Country," Aranea Platform is dedicated to fostering collaboration and innovation. Our mission is to create a seamless environment that supports collaboration between various stakeholders, including corporations, ventures, and strategic partners.</p>
+                                            <p>Nestled in the heart of Kerala, often referred to as "God's Own Country," Aranea Platform is dedicated to fostering collaboration and innovation. 
+                                                Our mission is to create a seamless environment that supports collaboration between various stakeholders, including corporations, ventures, and strategic partners.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -56,7 +57,7 @@
                                                 </svg>
                                                 Discover <br> Teak Forest
                                             </a>
-                                            <p>Welcome to The Nest Holiday City, a serene living environment designed for senior couples, individuals, and young retirees. Nestled in the heart of Kerala, The Nest offers personalized care and professional support, ensuring a high quality of life for our residents.</p>
+                                            <p>Welcome to The Nest Eco City, a serene living environment designed for senior couples, individuals, and young retirees. Nestled in the heart of Kerala, The Nest offers personalized care and professional support, ensuring a high quality of life for our residents.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -96,7 +97,7 @@
                                         </svg>
                                         Kerala, India
                                     </div>
-                                        <h3><a href="product.html">Discover Teak Forest : The Nest Ecocity City</a>
+                                        <h3><a href="product.html">Discover Teak Forest : The Nest Eco City</a>
                                         </h3>
                                         <ul class="product-tag">
                                             <li> <span class="badge"><svg xmlns="http://www.w3.org/2000/svg" width="12"
@@ -193,7 +194,7 @@
                                                     </svg> 5 Rooms</span>
                                             </li>
                                         </ul>
-                                        <p>Welcome to The Nest Holiday City, where tranquility meets modern living. Our community offers a perfect blend of comfort and luxury, tailored for senior couples, individuals, and young retirees. Nestled in the serene landscapes of Kerala, The Nest provides personalized care, professional support, and a vibrant community, ensuring a fulfilling lifestyle for all our residents.</p>
+                                        <p>Welcome to The Nest Eco City, where tranquility meets modern living. Our community offers a perfect blend of comfort and luxury, tailored for senior couples, individuals, and young retirees. Nestled in the serene landscapes of Kerala, The Nest provides personalized care, professional support, and a vibrant community, ensuring a fulfilling lifestyle for all our residents.</p>
                                         <div class="price">
                                             <ins>5,000,000 <span class="currency-type">INR</span></ins>
                                         </div>
@@ -268,8 +269,8 @@
             <div class="row row-gap">
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="category-left-side">
-                        <p>Welcome to The Nest Holiday City, an innovative concept dedicated to providing a serene and secure living environment for senior couples, individuals, and young retirees. Nestled in the picturesque landscapes of Kerala, our community offers a perfect blend of comfort, care, and companionship.</p>
-                        <p>Our mission is to enhance the quality of life for our residents through personalized care, professional support, and a vibrant community atmosphere. The Nest Holiday City is designed to cater to the diverse needs of its residents, ensuring that everyone feels at home and well-cared for.</p>
+                        <p>Welcome to The Nest Eco City, an innovative concept dedicated to providing a serene and secure living environment for senior couples, individuals, and young retirees. Nestled in the picturesque landscapes of Kerala, our community offers a perfect blend of comfort, care, and companionship.</p>
+                        <p>Our mission is to enhance the quality of life for our residents through personalized care, professional support, and a vibrant community atmosphere. The Nest Eco City is designed to cater to the diverse needs of its residents, ensuring that everyone feels at home and well-cared for.</p>
                         <p>From 24x7 medical support and healthcare facilities to engaging community activities and homely food, we strive to create a nurturing environment that promotes well-being and happiness. Experience the peace of mind that comes with knowing you or your loved ones are in a safe and supportive community.</p>
                             <div class="swiper category-slider">
                                 <div class="swiper-wrapper">
@@ -387,7 +388,7 @@
                             <div class="category-right-img">
                                 <img src="assets/images/THE_NEST_HOLIDAYCITY.jpg" alt="">
                             </div>
-                            <p>Discover The Nest Holiday City, a sanctuary designed to offer a blend of luxury and comfort. Situated in the lush landscapes of Kerala, our community is perfect for senior couples, individuals, and young retirees. With personalized care, modern amenities, and a vibrant community, The Nest ensures a fulfilling and serene lifestyle for all our residents.</p>
+                            <p>Discover The Nest Eco City, a sanctuary designed to offer a blend of luxury and comfort. Situated in the lush landscapes of Kerala, our community is perfect for senior couples, individuals, and young retirees. With personalized care, modern amenities, and a vibrant community, The Nest ensures a fulfilling and serene lifestyle for all our residents.</p>
                         </div>
                     </div>
                 </div>
@@ -845,7 +846,7 @@
                     </div>
                     <div class="col-lg-7 col-12 right-side">
                         <div class="description-wrapper">
-                            <p>At The Nest Holiday City, we pride ourselves on providing a comprehensive living experience that caters to all aspects of senior living. Our facilities include state-of-the-art healthcare services, wellness programs, and recreational activities designed to promote a healthy and active lifestyle. The community is set in a picturesque location with easy access to essential services and local attractions. Residents enjoy a vibrant social environment with numerous opportunities for engagement and personal growth. The Nest is committed to ensuring the safety, comfort, and happiness of all our residents, making it the perfect place to call home.</p>
+                            <p>At The Nest Eco City, we pride ourselves on providing a comprehensive living experience that caters to all aspects of senior living. Our facilities include state-of-the-art healthcare services, wellness programs, and recreational activities designed to promote a healthy and active lifestyle. The community is set in a picturesque location with easy access to essential services and local attractions. Residents enjoy a vibrant social environment with numerous opportunities for engagement and personal growth. The Nest is committed to ensuring the safety, comfort, and happiness of all our residents, making it the perfect place to call home.</p>
                         </div>
                     </div>
                 </div>
@@ -1000,7 +1001,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-12">
-                        <p>The Nest Holiday City offers a unique blend of luxury and comfort tailored for seniors. Our community features beautifully designed residences surrounded by lush greenery, creating a tranquil environment perfect for relaxation. We provide a wide range of amenities including 24/7 medical support, a fully equipped fitness center, and a variety of recreational activities to keep residents active and engaged. Our dedicated staff ensures personalized care, catering to the individual needs of each resident. Experience peace of mind and a vibrant community life at The Nest Holiday City.</p>
+                        <p>The Nest Eco City offers a unique blend of luxury and comfort tailored for seniors. Our community features beautifully designed residences surrounded by lush greenery, creating a tranquil environment perfect for relaxation. We provide a wide range of amenities including 24/7 medical support, a fully equipped fitness center, and a variety of recreational activities to keep residents active and engaged. Our dedicated staff ensures personalized care, catering to the individual needs of each resident. Experience peace of mind and a vibrant community life at The Nest Eco City.</p>
                     </div>
                 </div>
             </div>
@@ -2247,7 +2248,7 @@
                                             </div>
                                             <h5>
                                                 <a href="product.html">
-                                                    Live your life to the fullest, live your life at Holiday City Resorts.
+                                                    Live your life to the fullest, live your life at Nest Eco City Resorts.
                                                 </a>
                                             </h5>
                                             <ul class="product-tag">
@@ -3113,7 +3114,7 @@
             <div class="container">
             <div class="section-title title-center">
                 <h2>Find your home place</h2>
-                <p>Welcome to The Nest Holiday City, a community designed for comfort and convenience. Choose from our range of living options including elegant villas, spacious resorts, unique tent stays, and charming farmhouses. Our community is equipped with top-notch amenities and services to ensure a fulfilling and enjoyable lifestyle for all our residents. Experience the perfect blend of modern living and natural beauty at The Nest.</p>
+                <p>Welcome to The Nest Eco City, a community designed for comfort and convenience. Choose from our range of living options including elegant villas, spacious resorts, unique tent stays, and charming farmhouses. Our community is equipped with top-notch amenities and services to ensure a fulfilling and enjoyable lifestyle for all our residents. Experience the perfect blend of modern living and natural beauty at The Nest.</p>
             </div>
                 <div class="swiper best-category-slider">
                     <div class="swiper-wrapper">
@@ -3249,7 +3250,7 @@
                     </div>
                     <div class="col-lg-4 col-12">
                         <div class="modern-houses-right">
-                        <p>At The Nest Holiday City, we offer modern homes designed for everyone interested in a luxurious and tranquil living experience. Our residences feature contemporary architecture, spacious interiors, and are set amidst beautifully landscaped surroundings. </p>
+                        <p>At The Nest Eco City, we offer modern homes designed for everyone interested in a luxurious and tranquil living experience. Our residences feature contemporary architecture, spacious interiors, and are set amidst beautifully landscaped surroundings. </p>
 
                             <div class="swiper modern-houses-slider">
                                 <div class="swiper-wrapper">
@@ -3603,8 +3604,8 @@
                     <div class="row row-gap align-items-center">
                     <div class="col-lg-8 col-md-6 col-12">
                         <div class="modern-houses-description">
-                            <p>At The Nest Holiday City, we offer a diverse range of modern homes designed to cater to various lifestyles. Our residences feature contemporary architecture, spacious interiors, and are set amidst beautifully landscaped surroundings. Each home is built with high-quality materials and equipped with the latest amenities to ensure comfort and sophistication. Whether you are looking for a serene retreat or a vibrant community, The Nest provides the perfect blend of style and convenience for all.</p>
-                            <p>Our community is designed for everyone interested in a luxurious and tranquil living experience. With personalized care, professional support, and a range of recreational activities, residents can enjoy a fulfilling lifestyle. Discover the perfect place to call home at The Nest Holiday City, where comfort, safety, and happiness are our top priorities.</p>
+                            <p>At The Nest Eco City, we offer a diverse range of modern homes designed to cater to various lifestyles. Our residences feature contemporary architecture, spacious interiors, and are set amidst beautifully landscaped surroundings. Each home is built with high-quality materials and equipped with the latest amenities to ensure comfort and sophistication. Whether you are looking for a serene retreat or a vibrant community, The Nest provides the perfect blend of style and convenience for all.</p>
+                            <p>Our community is designed for everyone interested in a luxurious and tranquil living experience. With personalized care, professional support, and a range of recreational activities, residents can enjoy a fulfilling lifestyle. Discover the perfect place to call home at The Nest Eco City, where comfort, safety, and happiness are our top priorities.</p>
                             <a href="#" class="btn-secondary">Show full details <svg xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
                                 <g clip-path="url(#clip0_21_3415)">
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 8.49991C0.499994 8.89111 0.817121 9.20824 1.20832 9.20825L15.046 9.20847L13.3816 10.8254C13.101 11.098 13.0945 11.5465 13.3671 11.8271C13.6396 12.1077 14.0881 12.1141 14.3687 11.8416L17.2853 9.00823C17.4226 8.87485 17.5001 8.69158 17.5001 8.50016C17.5001 8.30874 17.4226 8.12547 17.2853 7.99209L14.3687 5.15876C14.0881 4.88618 13.6396 4.89267 13.3671 5.17327C13.0945 5.45387 13.101 5.90231 13.3816 6.1749L15.046 7.7918L1.20834 7.79158C0.817143 7.79158 0.500006 8.10871 0.5 8.49991Z" fill="#172229"></path>
@@ -3635,7 +3636,7 @@
                 </div>
                 <div class="col-lg-7 col-12 right-side">
                     <div class="description-wrapper">
-                        <p>Discover The Nest Holiday City, where comfort and luxury blend seamlessly. Our community offers a variety of modern housing options, including villas, resorts, tent stays, and farmhouses, designed to cater to different lifestyles and preferences. Each residence is equipped with high-quality amenities and surrounded by beautifully landscaped environments, providing a tranquil retreat for all residents.</p>
+                        <p>Discover The Nest Eco City, where comfort and luxury blend seamlessly. Our community offers a variety of modern housing options, including villas, resorts, tent stays, and farmhouses, designed to cater to different lifestyles and preferences. Each residence is equipped with high-quality amenities and surrounded by beautifully landscaped environments, providing a tranquil retreat for all residents.</p>
                         <p>In addition to our diverse housing options, we provide a range of facilities to enhance your living experience. Enjoy our state-of-the-art fitness center, serene meditation spaces, and well-equipped healthcare facilities with 24/7 medical support. Engage in recreational activities at our spa, gym, clubhouse, and swimming pool, or take a stroll through our beautifully maintained gardens. At The Nest, we ensure every resident enjoys a vibrant, healthy, and fulfilling lifestyle.</p>
                     </div>
                 </div>
@@ -3651,7 +3652,7 @@
                         <div class="col-lg-7 col-12">
                             <div class="newsletter-form">
                             <h3>Participate in Our Survey and Get -20% Off</h3>
-                            <p>We value your opinion and invite you to take part in our survey about The Nest Holiday City. Share your thoughts and feedback to help us enhance our community and services. As a token of our appreciation, you'll receive a 20% discount on your next booking with us.</p>
+                            <p>We value your opinion and invite you to take part in our survey about The Nest Eco City. Share your thoughts and feedback to help us enhance our community and services. As a token of our appreciation, you'll receive a 20% discount on your next booking with us.</p>
                                 <form action="">
                                     <div class="form-group">
                                         <input type="email" placeholder="Type your email address...">
@@ -3697,7 +3698,7 @@
                                     <h5>
                                         <a href="article.html">A modern home in the comfort of Gods own Country </a>
                                     </h5>
-                                    <p>Established in 1985, Holiday City has become synonymous with luxury and comfort, offering a unique blend of 
+                                    <p>Established in 1985, Eco City has become synonymous with luxury and comfort, offering a unique blend of 
                                         elegance and tranquility. This sprawling community features exquisite villas, serene farmhouses, and modern resorts, 
                                         all set amidst lush flower and fruit gardens that provide a picturesque backdrop for residents and visitors alike.</p>
                                     <a href="#" class="btn-secondary">Show full details <svg
@@ -3729,10 +3730,10 @@
                                 <div class="blog-itm-content">
                                     <span class="date">3 August 2020</span>
                                     <h5>
-                                        <a href="article.html"> God's own Country in all terms - Holiday City</a>
+                                        <a href="article.html"> God's own Country in all terms - Eco City</a>
                                     </h5>
                                     <p>Health and wellness are a priority, with state-of-the-art gym facilities and comprehensive health 
-                                        checkup services readily available. Holiday City stands as a testament to refined living, 
+                                        checkup services readily available. Eco City stands as a testament to refined living, 
                                         where every moment is crafted to provide an experience of unmatched comfort and luxury.</p>
                                     <a href="#" class="btn-secondary">Show full details <svg
                                             xmlns="http://www.w3.org/2000/svg" width="18" height="17"
@@ -3763,9 +3764,9 @@
                                 <div class="blog-itm-content">
                                     <span class="date">25 December 2016</span>
                                     <h5>
-                                        <a href="article.html">A perfect Christmas Gift for your dear ones - Holiday City </a>
+                                        <a href="article.html">A perfect Christmas Gift for your dear ones - Eco City </a>
                                     </h5>
-                                    <p>This holiday season, give the gift of luxury and tranquility with a villa in Holiday City, 
+                                    <p>This holiday season, give the gift of luxury and tranquility with a villa in Nest Eco City, 
                                         the perfect present for your loved ones. Nestled in lush gardens and equipped with modern amenities, 
                                         these villas offer an unparalleled living experience, blending comfort with elegance.</p>
                                     <a href="#" class="btn-secondary">Show full details <svg
@@ -3861,8 +3862,8 @@
             <div class="footer-row">
                 <div class="footer-col footer-subscribe-col">
                     <div class="footer-widget">
-                        <h4>Subscribe HolidayCity and get -20% off</h4>
-                        <p>Aranea presents you Nest- HolidayCity for you and your dear ones. Holiday City
+                        <h4>Subscribe Eco City and get -20% off</h4>
+                        <p>Aranea presents you Nest- Eco City for you and your dear ones. Eco City
                             introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
                         <form class="footer-subscribe-form">
                             <div class="input-wrapper">
@@ -3893,7 +3894,7 @@
                             <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
                             <li><a href="privacy-policy.html">Returns</a></li>
                             <li><a href="checkout.html">Payment Options</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="contact_details">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -4168,7 +4169,7 @@
                     <a href="faqs.html">FAQs</a>
                 </li>
                 <li class="mobile-item">
-                    <a href="contact-us.html">Contact Us</a>
+                    <a href="contact_details">Contact Us</a>
                 </li>
             </ul>
         </div>

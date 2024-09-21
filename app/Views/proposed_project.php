@@ -305,7 +305,7 @@
                     <a href="faqs.html">FAQs</a>
                 </li>
                 <li class="mobile-item">
-                    <a href="contact-us.html">Contact Us</a>
+                    <a href="contact_details">Contact Us</a>
                 </li>
             </ul>
         </div>

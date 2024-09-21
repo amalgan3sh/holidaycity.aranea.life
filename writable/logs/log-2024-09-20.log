@@ -1,0 +1,195 @@
+CRITICAL - 2024-09-20 20:02:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "business_strategy.php"
+[Method: GET, Route: business_strategy]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('business_strategy.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('business_strategy', [], true)
+ 3 APPPATH\Controllers\Home.php(58): view('business_strategy')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->BusinessStrategy()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 21:08:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "business_model.php"
+[Method: GET, Route: business_model]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('business_model.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('business_model', [], true)
+ 3 APPPATH\Controllers\Home.php(53): view('business_model')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->BusinessModel()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 21:42:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "business_model.php"
+[Method: GET, Route: business_model]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('business_model.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('business_model', [], true)
+ 3 APPPATH\Controllers\Home.php(53): view('business_model')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->BusinessModel()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 21:44:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "location.php"
+[Method: GET, Route: location]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('location.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('location', [], true)
+ 3 APPPATH\Controllers\Home.php(83): view('location')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->KeralaOverview()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 21:46:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "road_map.php"
+[Method: GET, Route: road_map]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('road_map.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('road_map', [], true)
+ 3 APPPATH\Controllers\Home.php(113): view('road_map')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->RoadMap()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 22:02:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "business_strategy.php"
+[Method: GET, Route: business_strategy]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('business_strategy.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('business_strategy', [], true)
+ 3 APPPATH\Controllers\Home.php(58): view('business_strategy')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->BusinessStrategy()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 22:29:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "market_analytics.php"
+[Method: GET, Route: market_analytics]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('market_analytics.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('market_analytics', [], true)
+ 3 APPPATH\Controllers\Home.php(63): view('market_analytics')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->MarketAnalytics()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 22:44:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "technical_feasibility.php"
+[Method: GET, Route: technical_feasibility]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('technical_feasibility.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('technical_feasibility', [], true)
+ 3 APPPATH\Controllers\Home.php(68): view('technical_feasibility')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->TechnicalFeasibility()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 22:56:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "project_implementation_strategy.php"
+[Method: GET, Route: project_implementation_strategy]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('project_implementation_strategy.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('project_implementation_strategy', [], true)
+ 3 APPPATH\Controllers\Home.php(73): view('project_implementation_strategy')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->ProjectImplementationStrategy()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 23:04:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "financial_analysis.php"
+[Method: GET, Route: financial_analysis]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('financial_analysis.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('financial_analysis', [], true)
+ 3 APPPATH\Controllers\Home.php(78): view('financial_analysis')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->FinancialAnalysis()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 23:15:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "investment_plan.php"
+[Method: GET, Route: investment_plan]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('investment_plan.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('investment_plan', [], true)
+ 3 APPPATH\Controllers\Home.php(123): view('investment_plan')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->InvestmentPlans()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 23:18:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "roi_details.php"
+[Method: GET, Route: roi_details]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('roi_details.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('roi_details', [], true)
+ 3 APPPATH\Controllers\Home.php(128): view('roi_details')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->ROIDetails()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 23:21:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "our_company_team.php"
+[Method: GET, Route: our_company_team]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('our_company_team.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('our_company_team', [], true)
+ 3 APPPATH\Controllers\Home.php(143): view('our_company_team')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->OurCompanyTeam()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 23:49:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "partnership_models.php"
+[Method: GET, Route: partnership_models]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partnership_models.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('partnership_models', [], true)
+ 3 APPPATH\Controllers\Home.php(138): view('partnership_models')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->PartnershipModels()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-20 23:49:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "contact_details.php"
+[Method: GET, Route: contact_details]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contact_details.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('contact_details', [], true)
+ 3 APPPATH\Controllers\Home.php(148): view('contact_details')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->ContactDetails()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')

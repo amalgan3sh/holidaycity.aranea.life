@@ -55,36 +55,40 @@
                                         <li class="col-md-3 col-12">
                                             <ul class="megamenu-list arrow-list">
                                                 <li class="list-title"><span>Project Information</span></li>
-                                                <li><a href="about.html">About Aranea Platform</a></li>
-                                                <li><a href="overview">The Nest Eco City</a></li>
-                                                <li><a href="target_audience">Target Audience</a></li>
-                                                <li><a href="new_retirement_trends">New Retirement Trends</a></li>
-                                                <li><a href="proposed_project">Proposed Project Location</a></li>
-                                                <li><a href="services_and_facilities">Services & Facilities</a></li>
-                                                <li><a href="plan_and_elevation">Plan & Elevation Phase 1</a></li>
-                                                <li><a href="project_layout_and_features">Project Layout & Features</a></li>
-                                                <li><a href="collaboration_options">Collaboration Options</a></li>
+                                                <li><a href="about.html">About Aranea Platform</a></li>                                                <li><a href="target_audience">Target Audience</a></li>
+                                                <li><a href="collaboration_opportunities"> Collaboration Opportunities</a></li>
+                                                <li><a href="project_components">Project Components</a></li>
+                                                <li><a href="business_model">Business Model</a></li>
+                                                <li><a href="business_strategy">Business Strategy</a></li>
+                                                <li><a href="market_analytics">Market Analytics</a></li>
+                                                <li><a href="technical_feasibility">Technical Feasibility</a></li>
+                                                <li><a href="project_implementation_strategy">Project Implementation Strategy</a></li>
+                                                <li><a href="financial_analysis">Financial Analysis</a></li>
                                             </ul>
                                         </li>
                                         
                                         <li class="col-md-3 col-12">
                                             <ul class="megamenu-list arrow-list">
                                                 <li class="list-title"><span>Location</span></li>
-                                                <li><a href="location.html">Kerala Overview</a></li>
-                                                <li><a href="location.html">Tourist Destinations</a></li>
-                                                <li><a href="location.html">Cultural Heritage</a></li>
-                                                <li><a href="location.html">Healthcare Excellence</a></li>
-                                                <li><a href="location.html">Natural Beauty</a></li>
+                                                <li><a href="location">Kerala Overview</a></li>
+                                                <li><a href="tourist_destinations">Tourist Destinations</a></li>
+                                                <li><a href="cultural_heritage">Cultural Heritage</a></li>
+                                                <li><a href="healthcare_excellence">Healthcare Excellence</a></li>
+                                                <li><a href="natural_beauty">Natural Beauty</a></li>
+                                                <li><a href="project_location_and_site_analysis">Project Location and Site Analysis</a></li>
+                                                <li><a href="road_map">Road Map</a></li>
                                             </ul>
                                         </li>
                                         <li class="col-md-3 col-12">
                                             <ul class="megamenu-list arrow-list">
                                                 <li class="list-title"><span>Investment Opportunities</span></li>
-                                                <li><a href="investment.html">Director Positions</a></li>
-                                                <li><a href="investment.html">Investment Plans</a></li>
-                                                <li><a href="investment.html">ROI Details</a></li>
-                                                <li><a href="investment.html">Security Information</a></li>
-                                                <li><a href="investment.html">Partnership Models</a></li>
+                                                <li><a href="director_position">Director Positions</a></li>
+                                                <li><a href="investment_plan">Investment Plans</a></li>
+                                                <li><a href="roi_details">ROI Details</a></li>
+                                                <li><a href="security_information">Security Information</a></li>
+                                                <li><a href="partnership_models">Partnership Models</a></li>
+                                                <li><a href="our_company_team">Our Company Team</a></li>
+                                                <li><a href="contact_details">Contact Details</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -109,7 +113,7 @@
                         </li>
                         
                         <li class="menu-lnk">
-                            <a href="contact-us.html">Contact</a>
+                            <a href="contact_details">Contact</a>
                         </li>
                     </ul>
                 </div>

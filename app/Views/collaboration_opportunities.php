@@ -1,58 +1,354 @@
-<!--header end here-->
-    <div class="wrapper">
-        <section class="about-us-page padding-bottom padding-top">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="modern houses - Workdo.">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <title>Holiday City</title>
+    <meta name="description" content="modern houses - Workdo.">
+    <meta name="keywords" content="modern houses - Workdo.">
+    <link rel="shortcut icon" href="assets/images/favicon.png">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/main-style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+
+<body>
+    <!--header start here-->
+    <header class="site-header header-style-one">
+        <div class="main-navigationbar">
             <div class="container">
-            <div class="section-title">
-                    <h2><center><B>OUR </B> INSPIRATION</center></h2><br>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-12">
-                        <div class="about-us-content">
-                            <p style="text-align: justify;">With more than twenty years of dedicated experience, Shynesh Moolayi, our CEO, has 
-                                cultivated a broad and diverse network of friends and colleagues from all corners of the world. This extensive 
-                                exposure to different cultures and ways of life has given him a unique perspective on the varied challenges that 
-                                retirees face. Whether it's managing the financial complexities of retirement, adjusting to a slower pace of life, 
-                                or finding meaningful ways to stay connected with others, Shynesh has seen it all firsthand. His deep understanding 
-                                of these issues, combined with his compassionate approach, positions him to not only empathize with retirees but also 
-                                to develop thoughtful, effective solutions that address their most pressing needs</p><br><br>
+                <div class="navigationbar-row d-flex align-items-center">
+                    <div class="menu-items-col">
+                        <div class="mobile-menu">
+                            <button class="mobile-menu-button">
+                                <div class="one"></div>
+                                <div class="two"></div>
+                                <div class="three"></div>
+                            </button>
                         </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="about-us-content">
-                            <p style="text-align: justify;">In his journey, Shynesh Moolayi has consistently demonstrated a commitment to improving the 
-                                lives of retirees by bridging the gap between their expectations and the realities of post-retirement life. His ability 
-                                to connect with people from various walks of life has enriched his understanding of the emotional and psychological 
-                                aspects of retirement, beyond just the financial considerations. Shynesh believes that retirement should be a time of 
-                                fulfillment and growth, not just a winding down of activities. This belief drives his passion for creating supportive 
-                                communities and services that empower retirees to lead vibrant, purposeful lives. His vision is to redefine retirement 
-                                as a stage of life that is not only secure but also enriching and rewarding.<br><br>
-                                </p>
+                        <ul class="main-nav">
+                        <li class="menu-lnk">
+                            <a href="/">Home</a>
+                        </li>
+                        <li class="menu-lnk has-item">
+                            <a href="about.html">About Us</a>
+                            <div class="menu-dropdown">
+                                <ul>
+                                    <li><a href="overview">Overview</a></li>
+                                    <li><a href="our_inspiration">Our Inspiration</a></li>
+                                    <li><a href="vision_and_mission">Vision and Mission</a></li>
+                                    <!-- <li><a href="about.html#team">Our Team</a></li> -->
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="menu-lnk has-item">
+                            <a href="#">Our Projects</a>
+                            <div class="mega-menu menu-dropdown">
+                                <div class="mega-menu-container container">
+                                    <ul class="row">
+                                        <li class="col-md-3 col-12">
+                                            <ul class="megamenu-list arrow-list">
+                                                <li class="list-title"><span>Project Information</span></li>
+                                                <li><a href="about.html">About Aranea Platform</a></li>                                                <li><a href="target_audience">Target Audience</a></li>
+                                                <li><a href="collaboration_opportunities"> Collaboration Opportunities</a></li>
+                                                <li><a href="project_components">Project Components</a></li>
+                                                <li><a href="business_model">Business Model</a></li>
+                                                <li><a href="business_strategy">Business Strategy</a></li>
+                                                <li><a href="market_analytics">Market Analytics</a></li>
+                                                <li><a href="technical_feasibility">Technical Feasibility</a></li>
+                                                <li><a href="project_implementation_strategy">Project Implementation Strategy</a></li>
+                                                <li><a href="financial_analysis">Financial Analysis</a></li>
+                                            </ul>
+                                        </li>
+                                        
+                                        <li class="col-md-3 col-12">
+                                            <ul class="megamenu-list arrow-list">
+                                                <li class="list-title"><span>Location</span></li>
+                                                <li><a href="location">Kerala Overview</a></li>
+                                                <li><a href="tourist_destinations">Tourist Destinations</a></li>
+                                                <li><a href="cultural_heritage">Cultural Heritage</a></li>
+                                                <li><a href="healthcare_excellence">Healthcare Excellence</a></li>
+                                                <li><a href="natural_beauty">Natural Beauty</a></li>
+                                                <li><a href="project_location_and_site_analysis">Project Location and Site Analysis</a></li>
+                                                <li><a href="road_map">Road Map</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="col-md-3 col-12">
+                                            <ul class="megamenu-list arrow-list">
+                                                <li class="list-title"><span>Investment Opportunities</span></li>
+                                                <li><a href="director_position">Director Positions</a></li>
+                                                <li><a href="investment_plan">Investment Plans</a></li>
+                                                <li><a href="roi_details">ROI Details</a></li>
+                                                <li><a href="security_information">Security Information</a></li>
+                                                <li><a href="partnership_models">Partnership Models</a></li>
+                                                <li><a href="our_company_team">Our Company Team</a></li>
+                                                <li><a href="contact_details">Contact Details</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="menu-lnk has-item">
+                            <a href="#">Our Services</a>
+                            <div class="menu-dropdown">
+                                <ul>
+                                    <li><a href="services.html">Meditation Centre</a></li>
+                                    <li><a href="services.html">24x7 Medical Support</a></li>
+                                    <li><a href="services.html">24Hr Ambulance Services</a></li>
+                                    <li><a href="services.html">Healthcare Clinic</a></li>
+                                    <li><a href="services.html">Pathology Lab</a></li>
+                                    <li><a href="services.html">Affordable Living</a></li>
+                                    <li><a href="services.html">Customized Care</a></li>
+                                    <li><a href="services.html">Homely Food</a></li>
+                                    <li><a href="services.html">Spa, Gym & Club House & Pool</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        
+                        <li class="menu-lnk">
+                            <a href="contact_details">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--header end here-->
+    <div class="wrapper">
+    <section class="common-banner-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="common-banner-content">
+                            <div class="section-title">
+                                <h2><center>TEAK FOREST :
+                                    THE NEST ECO CITY</center></h2><br>
+                                    <p><center>
+                                        IN ASSOCIATION WITH</center>
+                                    </p>
+                                <h3><center><span style="color: #A9A9A9;">
+                                    MVR MULTI SPECIALITY HOSPITAL
+                                </span></center></h3>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="about-our-shop-section padding-bottom">
+        <section class="about-us-page padding-bottom padding-top" id="inspiration">
             <div class="container">
-                <div class="section-title text-center">
-                    <h2><b> About </b> God's Own Country - KERALA </h2>
+                <div class="section-title">
+                    <h2><center>Collaboration <b> Opportunities</b></center></h2><br>
+                </div>
+            </div>
+        </section>
+        <section class="about-our-shop-section padding-bottom" id="vision">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-left">
+                            <div class="section-title">
+                                <h3>Farmhouses</h3>
+                            </div>
+                            <p> 
+                                <b>Luxury Real Estate Developers : </b> Partner with real estate
+                                developers to promote and sell the 100 premium farmhouses.
+                                Developers specializing in eco-friendly, luxury properties can
+                                collaborate to expand their portfolio and cater to high-net
+                                worth individuals.
+                            </p><br>
+                            <p>
+                                <b>Interior Designers & Architects : </b> Collaborate with architects and
+                                interior designers focusing on sustainable design to create
+                                aesthetically pleasing and eco-conscious homes that reflect
+                                the project’s ethos.
+                            </p><br>
+                            <p>
+                                <b>Green Technology Providers : </b> Collaborate with companies
+                                offering sustainable building technologies, such as solar
+                                panels, smart home systems, and energy-efficient materials to
+                                enhance the farmhouses' green credentials. 
+                            </p><br>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-right">
+                            <img src="assets/images/abt-2.jpg">
+                        </div>
+                    </div>
                 </div>
                 <div class="row align-items-center row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3> <b> Introducing The Nest Retirement Villa with Holiday City with Health care facility</b> </h3>
+                                <h3> Resort Villas </h3>
                             </div>
-                            <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p>
-                                    <ul>
-                                        <li>- Corporations</li>
-                                        <li>- Ventures</li>
-                                        <li>- Strategic Partners</li>
-                                    </ul>
+                            <p>
+                                <b>Tourism & Hospitality Companies : </b> Partner with eco-tourism
+                                operators or hospitality chains to manage and promote the
+                                100 luxury resort villas as a premium holiday destination.
+                            </p><br>
+                            <p>
+                                <b>Travel Agencies & Online Booking Platforms : </b> Collaborate
+                                with travel agencies and platforms like Airbnb, Booking.com,
+                                or MakeMyTrip to promote the resort as a luxurious, eco
+                                friendly vacation spot for both domestic and international
+                                tourists.
+                            </p><br>
+                            <p>
+                                <b>Event Organizers : </b> Partner with event organizers to hold
+                                retreats, weddings, or corporate getaways in the resort
+                                villas, 
+                                leveraging the unique blend of luxury and
+                                sustainability.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-right">
+                            <img src="assets/images/abt-2.jpg">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-left">
+                            <div class="section-title">
+                                <h3>Healthcare Facilities</h3>
+                            </div>
+                            <p> 
+                                <b>Healthcare Providers & Hospitals :</b> Collaborate with
+                                healthcare institutions like MVR Multi Speciality Hospital to
+                                operate the healthcare center, providing cutting-edge
+                                medical services to the residents and surrounding
+                                community.
+                            </p><br>
+                            <p>
+                                <b>Wellness & Preventive Healthcare Companies :</b>  Partner with
+                                wellness brands and preventive healthcare providers to
+                                offer spa, yoga, mental health, and alternative medicine
+                                services, integrating holistic healthcare within the eco-city.
+                            </p><br>
+                            <p>
+                                <b>Telemedicine & HealthTech Providers :</b>  Collaborate with
+                                telemedicine and healthtech companies to offer remote
+                                healthcare solutions to residents and visitors, aligning with
+                                the rising trend of digital healthcare services.
+                            </p><br>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-right">
+                            <img src="assets/images/abt-2.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center row-reverse">
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-left">
+                            <div class="section-title">
+                                <h3> Exotic Park & Waste Management </h3>
+                            </div>
+                            <p>
+                                <b>Environmental Conservation Organizations : </b> Collaborate
+                                with environmental NGOs, government bodies, and private
+                                companies focused on conservation to develop and
+                                maintain the exotic park. These collaborations could help
+                                preserve local flora and fauna and promote eco-tourism.
+                            </p><br>
+                            <p>
+                                <b>Waste Management Firms :</b>  Partner with companies
+                                specializing in waste management and recycling to
+                                operate and manage the advanced waste management
+                                system integrated into the project. Collaboration can focus
+                                on ensuring sustainable waste disposal practices and
+                                environmental conservation.
+                            </p><br>
+                            <p>
+                                <b> Sustainable Tourism Operators :</b>  Collaborate with operators
+                                who specialize in eco-friendly tourism to organize tours,
+                                nature walks, and educational programs within the exotic
+                                park.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-right">
+                            <img src="assets/images/abt-2.jpg">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-left">
+                            <div class="section-title">
+                                <h3>Hydropower Plant</h3>
+                            </div>
+                            <p> 
+                                <b> Renewable Energy Companies :</b> Collaborate with renewable
+                                energy providers to build and operate the 5 MW
+                                hydropower plant. These companies can also help optimize
+                                energy generation and distribution within the eco-city.
+                            </p><br>
+                            <p>
+                                <b> Government & Local Authorities :</b>  Partner with local
+                                governments or the Indian government to generate
+                                renewable energy and sell surplus energy back to the grid,
+                                contributing to the national renewable energy goals.
+                            </p><br>
+                            <p>
+                                <b> Energy Efficiency Firms :</b>: Collaborate with firms offering
+                                energy storage, management, and grid integration
+                                solutions to ensure the smooth operation and efficiency of
+                                the hydropower plant.
+                            </p><br>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-right">
+                            <img src="assets/images/abt-2.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center row-reverse">
+                    <div class="col-md-6 col-12">
+                        <div class="abt-shp-column-left">
+                            <div class="section-title">
+                                <h3>Mineral Water Management System</h3>
+                            </div>
+                            <p>
+                                <b>Water Treatment & Bottling Companies :</b> Collaborate with
+                                companies specializing in water treatment and bottling to
+                                manage the mineral water management system. These
+                                companies can help purify, store, and package the natural
+                                mineral water for public and commercial use.
+                            </p><br>
+                            <p>
+                                <b> Distribution & Logistics Partners :</b> Partner with logistics
+                                companies to ensure efficient distribution of the mineral
+                                water both locally and globally, tapping into markets
+                                focused on premium bottled water and sustainable water
+                                resources.
+                            </p><br>
+                            <p>
+                                <b>Public-Private Partnerships (PPP) :</b> Collaborate with
+                                government entities for joint ventures or public-private
+                                partnerships in providing clean water solutions and
+                                promoting sustainable water management in the region.
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
@@ -63,7 +359,8 @@
                 </div>
             </div>
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        
+        <section class="aboutpage-btm-sec about-us-section padding-bottom" id="team">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -121,6 +418,95 @@
             </div>
         </section>
     </div>
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-row">
+                <div class="footer-col footer-subscribe-col">
+                    <div class="footer-widget">
+                        <h4>Subscribe HolidayCity and get -20% off</h4>
+                        <p>Aranea presents you Nest- HolidayCity for you and your dear ones. Holiday City
+                            introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
+                        <form class="footer-subscribe-form">
+                            <div class="input-wrapper">
+                                <input type="email" placeholder="Type your address email...">
+                                <button type="submit" class="btn-subscibe">
+                                    Subscription <svg xmlns="http://www.w3.org/2000/svg" width="6" height="6"
+                                        viewBox="0 0 6 6" fill="none">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M0.116348 5.76479C-0.0136244 5.63481 -0.0136243 5.42409 0.116348 5.29411L4.72561 0.684852L1.76376 0.6848C1.57995 0.684797 1.43095 0.535788 1.43095 0.351979C1.43096 0.16817 1.57997 0.0191656 1.76377 0.019169L5.52909 0.0192342C5.7129 0.0192372 5.8619 0.168239 5.8619 0.352044L5.86197 4.11736C5.86197 4.30117 5.71296 4.45018 5.52916 4.45018C5.34535 4.45018 5.19634 4.30118 5.19633 4.11737L5.19628 1.15552L0.587021 5.76479C0.457048 5.89476 0.246321 5.89476 0.116348 5.76479Z"
+                                            fill="#FBFBFB"></path>
+                                    </svg>
+                                </button>
+                            </div>
+                            <div class="checkbox-custom">
+                                <input type="checkbox" id="subscibecheck">
+                                <label for="subscibecheck">
+                                    Contact Us for more details and inquiry
+                                </label>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="footer-col footer-link footer-link-1">
+                    <div class="footer-widget">
+                        <h4> Shop </h4>
+                        <ul>
+                            <li><a href="order-summery.html">Order status</a></li>
+                            <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
+                            <li><a href="privacy-policy.html">Returns</a></li>
+                            <li><a href="checkout.html">Payment Options</a></li>
+                            <li><a href="contact_details">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-col footer-link footer-link-2">
+                    <div class="footer-widget">
+                        <h4> Account </h4>
+                        <ul>
+                            <li><a href="product-list.html">Products</a></li>
+                            <li><a href="product.html">Categories</a></li>
+                            <li><a href="cart.html">My Cart</a></li>
+                            <li><a href="my-account.html">My Profile</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-col footer-link footer-link-3">
+                    <div class="footer-widget footer-social-links">
+                        <h4>Share</h4>
+                        <ul>
+                            <li>
+                                <a href="https://www.instagram.com/">
+                                    Instagram
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/messenger/">
+                                    Facebook
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.twitter.com/">
+                                    Twitter
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/">
+                                    Youtube
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-6">
+                        <p>©ARANEA.IN. All rights reserved</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">
         <div class="menu-close-icon">

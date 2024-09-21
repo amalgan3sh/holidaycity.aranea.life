@@ -107,7 +107,7 @@
                         </li>
                         
                         <li class="menu-lnk">
-                            <a href="contact-us.html">Contact</a>
+                            <a href="contact_details">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -1220,7 +1220,7 @@
                             <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
                             <li><a href="privacy-policy.html">Returns</a></li>
                             <li><a href="checkout.html">Payment Options</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="contact_details">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1495,7 +1495,7 @@
                   <a href="faqs.html">FAQs</a>
                </li>
                <li class="mobile-item">
-                  <a href="contact-us.html">Contact Us</a>
+                  <a href="contact_details">Contact Us</a>
                </li>
             </ul>
          </div>
