@@ -293,8 +293,8 @@
             <div class="footer-row">
                 <div class="footer-col footer-subscribe-col">
                     <div class="footer-widget">
-                        <h4>Subscribe HolidayCity and get -20% off</h4>
-                        <p>Aranea presents you Nest- HolidayCity for you and your dear ones. Holiday City
+                        <h4>Subscribe Eco City and get -20% off</h4>
+                        <p>Aranea presents you Nest- Eco City for you and your dear ones. Eco City
                             introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
                         <form class="footer-subscribe-form">
                             <div class="input-wrapper">

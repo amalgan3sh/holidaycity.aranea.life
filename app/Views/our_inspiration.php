@@ -41,7 +41,7 @@
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3> <b> Introducing The Nest Retirement Villa with Holiday City with Health care facility</b> </h3>
+                                <h3> <b> Introducing The Nest Retirement Villa with Eco City with Health care facility</b> </h3>
                             </div>
                             <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
                                 designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 

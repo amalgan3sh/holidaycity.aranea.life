@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="modern houses - Workdo.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
-    <title>Holiday City</title>
+    <title>Eco City</title>
     <meta name="description" content="modern houses - Workdo.">
     <meta name="keywords" content="modern houses - Workdo.">
     <link rel="shortcut icon" href="assets/images/favicon.png">
@@ -283,8 +283,8 @@
             <div class="footer-row">
                 <div class="footer-col footer-subscribe-col">
                     <div class="footer-widget">
-                        <h4>Subscribe HolidayCity and get -20% off</h4>
-                        <p>Aranea presents you Nest- HolidayCity for you and your dear ones. Holiday City
+                        <h4>Subscribe Eco City and get -20% off</h4>
+                        <p>Aranea presents you Nest- Eco City for you and your dear ones. Eco City
                             introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
                         <form class="footer-subscribe-form">
                             <div class="input-wrapper">
