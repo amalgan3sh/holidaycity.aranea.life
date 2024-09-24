@@ -117,7 +117,6 @@
                                         </ul>
                                         <p>Welcome to The Teak Forest, where modern living meets the tranquility of nature. Our homes are designed to provide comfort and luxury in a serene environment, perfect for senior couples, individuals, and young retirees.</p>
                                         <div class="price">
-                                            <ins>3,459,000 <span class="currency-type">INR</span></ins>
                                         </div>
                                         <div class="home-product-bottom-content">
                                             <a href="#" class="btn-secondary">Show full details <svg
@@ -196,7 +195,7 @@
                                         </ul>
                                         <p>Welcome to The Nest Eco City, where tranquility meets modern living. Our community offers a perfect blend of comfort and luxury, tailored for senior couples, individuals, and young retirees. Nestled in the serene landscapes of Kerala, The Nest provides personalized care, professional support, and a vibrant community, ensuring a fulfilling lifestyle for all our residents.</p>
                                         <div class="price">
-                                            <ins>5,000,000 <span class="currency-type">INR</span></ins>
+                                            
                                         </div>
                                         <div class="home-product-bottom-content">
                                             <a href="#" class="btn-secondary">Show full details <svg
@@ -531,7 +530,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>31,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -607,7 +606,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>50,263,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -685,7 +684,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>100,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -762,7 +761,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>154,559,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -906,7 +905,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>31,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -957,7 +956,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>20,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -1074,7 +1073,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>9,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1150,7 +1149,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>58,59,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1228,7 +1227,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>25,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1305,7 +1304,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>31,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1421,7 +1420,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>13,145,90,00 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1497,7 +1496,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>31,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1575,7 +1574,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>9,059,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1652,7 +1651,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>85,229,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1768,7 +1767,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>10,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1844,7 +1843,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>35,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1922,7 +1921,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>61,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -1999,7 +1998,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>4,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2115,7 +2114,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>50,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2191,7 +2190,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>25,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2269,7 +2268,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>30,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2346,7 +2345,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>100,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2462,7 +2461,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>85,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2538,7 +2537,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>31,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2616,7 +2615,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>55,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2693,7 +2692,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>12,04,59,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2809,7 +2808,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>30,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2885,7 +2884,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>31,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -2963,7 +2962,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>71,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -3040,7 +3039,7 @@
                                                 </li>
                                             </ul>
                                             <div class="price">
-                                                <ins>25,459,000 <span class="currency-type">INR</span></ins>
+                                                
                                             </div>
                                             <div class="product-content-bottom">
                                                 <a href="#" class="btn-secondary">Show full details <svg
@@ -3300,7 +3299,7 @@
                                                     </li>
                                                 </ul>
                                                 <div class="price">
-                                                    <ins>10,00,00,001 <span class="currency-type">INR</span></ins>
+                                                    
                                                 </div>
                                                 <div class="product-content-bottom">
                                                     <a href="#" class="btn-secondary">Show full details <svg
@@ -3376,7 +3375,7 @@
                                                     </li>
                                                 </ul>
                                                 <div class="price">
-                                                    <ins>5,459,00,00 <span class="currency-type">INR</span></ins>
+                                                    
                                                 </div>
                                                 <div class="product-content-bottom">
                                                     <a href="#" class="btn-secondary">Show full details <svg
@@ -3452,7 +3451,7 @@
                                                     </li>
                                                 </ul>
                                                 <div class="price">
-                                                    <ins>13,145,90,00 <span class="currency-type">INR</span></ins>
+                                                    
                                                 </div>
                                                 <div class="product-content-bottom">
                                                     <a href="#" class="btn-secondary">Show full details <svg
@@ -3529,7 +3528,7 @@
                                                     </li>
                                                 </ul>
                                                 <div class="price">
-                                                    <ins>8,459,00,50 <span class="currency-type">INR</span></ins>
+                                                    
                                                 </div>
                                                 <div class="product-content-bottom">
                                                     <a href="#" class="btn-secondary">Show full details <svg

@@ -57,6 +57,11 @@ class Home extends BaseController
     {
         return view('business_strategy');
     }
+    
+    public function TriPartyManagementSystem(): string
+    {
+        return view('tri_party_payment_system');
+    }
 
     public function MarketAnalytics(): string
     {
@@ -83,26 +88,6 @@ class Home extends BaseController
         return view('location');
     }
 
-    public function TouristDestinations(): string
-    {
-        return view('tourist_destinations');
-    }
-
-    public function CulturalHeritage(): string
-    {
-        return view('cultural_heritage');
-    }
-
-    public function HealthcareExcellence(): string
-    {
-        return view('healthcare_excellence');
-    }
-
-    public function NaturalBeauty(): string
-    {
-        return view('natural_beauty');
-    }
-
     public function ProjectLocationandSiteAnalysis(): string
     {
         return view('project_location_and_site_analysis');
@@ -113,11 +98,6 @@ class Home extends BaseController
         return view('road_map');
     }
 
-    public function DirectorPositions(): string
-    {
-        return view('director_position');
-    }
-
     public function InvestmentPlans(): string
     {
         return view('investment_plan');
@@ -126,16 +106,6 @@ class Home extends BaseController
     public function ROIDetails(): string
     {
         return view('roi_details');
-    }
-
-    public function SecurityInformation(): string
-    {
-        return view('security_information');
-    }
-
-    public function PartnershipModels(): string
-    {
-        return view('partnership_models');
     }
 
     public function OurCompanyTeam(): string

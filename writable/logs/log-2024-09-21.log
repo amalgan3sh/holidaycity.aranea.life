@@ -1,0 +1,39 @@
+CRITICAL - 2024-09-21 10:10:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "natural_beauty.php"
+[Method: GET, Route: natural_beauty]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('natural_beauty.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('natural_beauty', [], true)
+ 3 APPPATH\Controllers\Home.php(103): view('natural_beauty')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->NaturalBeauty()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-21 10:11:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "partnership_models.php"
+[Method: GET, Route: partnership_models]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partnership_models.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('partnership_models', [], true)
+ 3 APPPATH\Controllers\Home.php(138): view('partnership_models')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->PartnershipModels()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')
+CRITICAL - 2024-09-21 10:12:08 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "director_position.php"
+[Method: GET, Route: director_position]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('director_position.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('director_position', [], true)
+ 3 APPPATH\Controllers\Home.php(118): view('director_position')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->DirectorPositions()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\holidaycity.aranea.life\\index.php')

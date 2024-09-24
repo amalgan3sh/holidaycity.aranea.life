@@ -32,7 +32,7 @@
                                 <div class="three"></div>
                             </button>
                         </div>
-                        <ul class="main-nav">
+                    <ul class="main-nav">
                         <li class="menu-lnk">
                             <a href="/">Home</a>
                         </li>
@@ -60,6 +60,7 @@
                                                 <li><a href="project_components">Project Components</a></li>
                                                 <li><a href="business_model">Business Model</a></li>
                                                 <li><a href="business_strategy">Business Strategy</a></li>
+                                                <li><a href="tri_party_payment_system">Tri-Party Management System</a></li>
                                                 <li><a href="market_analytics">Market Analytics</a></li>
                                                 <li><a href="technical_feasibility">Technical Feasibility</a></li>
                                                 <li><a href="project_implementation_strategy">Project Implementation Strategy</a></li>
@@ -71,10 +72,6 @@
                                             <ul class="megamenu-list arrow-list">
                                                 <li class="list-title"><span>Location</span></li>
                                                 <li><a href="location">Kerala Overview</a></li>
-                                                <li><a href="tourist_destinations">Tourist Destinations</a></li>
-                                                <li><a href="cultural_heritage">Cultural Heritage</a></li>
-                                                <li><a href="healthcare_excellence">Healthcare Excellence</a></li>
-                                                <li><a href="natural_beauty">Natural Beauty</a></li>
                                                 <li><a href="project_location_and_site_analysis">Project Location and Site Analysis</a></li>
                                                 <li><a href="road_map">Road Map</a></li>
                                             </ul>
@@ -82,11 +79,8 @@
                                         <li class="col-md-3 col-12">
                                             <ul class="megamenu-list arrow-list">
                                                 <li class="list-title"><span>Investment Opportunities</span></li>
-                                                <li><a href="director_position">Director Positions</a></li>
                                                 <li><a href="investment_plan">Investment Plans</a></li>
                                                 <li><a href="roi_details">ROI Details</a></li>
-                                                <li><a href="security_information">Security Information</a></li>
-                                                <li><a href="partnership_models">Partnership Models</a></li>
                                                 <li><a href="our_company_team">Our Company Team</a></li>
                                                 <li><a href="contact_details">Contact Details</a></li>
                                             </ul>
@@ -99,15 +93,15 @@
                             <a href="#">Our Services</a>
                             <div class="menu-dropdown">
                                 <ul>
-                                    <li><a href="services.html">Meditation Centre</a></li>
-                                    <li><a href="services.html">24x7 Medical Support</a></li>
-                                    <li><a href="services.html">24Hr Ambulance Services</a></li>
-                                    <li><a href="services.html">Healthcare Clinic</a></li>
-                                    <li><a href="services.html">Pathology Lab</a></li>
-                                    <li><a href="services.html">Affordable Living</a></li>
-                                    <li><a href="services.html">Customized Care</a></li>
-                                    <li><a href="services.html">Homely Food</a></li>
-                                    <li><a href="services.html">Spa, Gym & Club House & Pool</a></li>
+                                    <li>Meditation Centre</a></li>
+                                    <li>24x7 Medical Support</a></li>
+                                    <li>24Hr Ambulance Services</a></li>
+                                    <li>Healthcare Clinic</a></li>
+                                    <li>Pathology Lab</a></li>
+                                    <li>Affordable Living</a></li>
+                                    <li>Customized Care</a></li>
+                                    <li>Homely Food</a></li>
+                                    <li>Spa, Gym & Club House & Pool</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -191,68 +185,7 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="about-us-page padding-bottom padding-top" id="inspiration">
-            <div class="container">
-                <div class="section-title">
-                    <h2><center> BUSINESS <b> STRATEGY</center></b></h2><br>
-                </div>
-                <div class="abt-shp-column-right">
-                    <img src="assets/images/business_model.png">
-                </div>
-                <div class="abt-shp-column-right">
-                    <br><br>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-12">
-                        <div class="about-us-content">
-                            <p style="text-align: justify;">
-                                ARANEA’s innovative business model for the Teak Forest: The Nest Eco City
-                                project revolves around a strategic sponsorship and collaboration framework.
-                                In this model, ARANEA functions as the main sponsor, driving the project's
-                                growth and ensuring sustainable development by integrating key partnerships.
-                            </p>
-                            <p style="text-align: justify;">
-                                <b>1. </b> Sponsorship and Facilitation ARANEA plays a pivotal role as the project’s
-                                primary sponsor, responsible for the overall vision, strategy, and funding. As the
-                                main sponsor, ARANEA ensures that the project aligns with sustainability goals,
-                                modern amenities, and community-focused objectives.
-                            </p>
-                            <p style="text-align: justify;">
-                                <b>2. </b> Appointment of a Facilitator To streamline operations and ensure effective
-                                execution, ARANEA appoints MVR Multi Speciality Hospital as the primary
-                                facilitator for the project. MVR, with its experience in healthcare and
-                                management, plays a crucial role in executing the joint ventures and
-                                collaborative partnerships.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="about-us-content">
-                            <p style="text-align: justify;">
-                                <b>1. </b> Joint Venture Collaboration Through the facilitator, MVR, ARANEA fosters joint
-                                venture collaborations with investors, real estate developers, healthcare
-                                providers, and other stakeholders. These collaborations are aimed at
-                                integrating high-quality services such as healthcare facilities, energy-efficient
-                                homes, renewable energy, and community-focused amenities.
-                            </p>
-                            <p style="text-align: justify;">
-                                <b>2. </b> Revenue Sharing and Profit Maximization The model ensures mutual benefit
-                                for all collaborators through shared revenue, profit distribution, and long-term
-                                sustainability. ARANEA, as the sponsor, not only ensures financial return but also
-                                enables partners to gain from the project’s success.
-                            </p>
-                            <p style="text-align: justify;">
-                                This business model promotes sustainable urban development, fosters strong
-                                partnerships, and ensures the success of Teak Forest: The Nest Eco City by
-                                leveraging ARANEA’s sponsorship and MVR’s facilitation expertise.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <img src="assets/images/business_strategy.png">
         </section>
 
     </div>
