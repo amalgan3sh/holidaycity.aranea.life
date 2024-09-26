@@ -214,13 +214,13 @@
         
         
     
-    <footer class="site-footer">
+        <footer class="site-footer">
         <div class="container">
             <div class="footer-row">
                 <div class="footer-col footer-subscribe-col">
                     <div class="footer-widget">
                         <h4>Subscribe Eco City and get -20% off</h4>
-                        <p>Aranea presents you Nest- Eco City for you and your dear ones. Eco City
+                        <p>Aranea presents you Nest- Eco City for you and your dear ones. Holiday City
                             introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
                         <form class="footer-subscribe-form">
                             <div class="input-wrapper">
@@ -245,51 +245,40 @@
                 </div>
                 <div class="footer-col footer-link footer-link-1">
                     <div class="footer-widget">
-                        <h4> Shop </h4>
+                        <h4> Project Information </h4>
                         <ul>
-                            <li><a href="order-summery.html">Order status</a></li>
-                            <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
-                            <li><a href="privacy-policy.html">Returns</a></li>
-                            <li><a href="checkout.html">Payment Options</a></li>
-                            <li><a href="contact_details">Contact Us</a></li>
+                            <li><a href="about.html">About Aranea Platform</a></li>                                                
+                            <li><a href="target_audience">Target Audience</a></li>
+                            <li><a href="collaboration_opportunities"> Collaboration Opportunities</a></li>
+                            <li><a href="project_components">Project Components</a></li>
+                            <li><a href="business_model">Business Model</a></li>
+                            <li><a href="business_strategy">Business Strategy</a></li>
+                            <li><a href="tri_party_payment_system">Tri-Party Management System</a></li>
+                            <li><a href="market_analytics">Market Analytics</a></li>
+                            <li><a href="technical_feasibility">Technical Feasibility</a></li>
+                            <li><a href="project_implementation_strategy">Project Implementation Strategy</a></li>
+                            <li><a href="financial_analysis">Financial Analysis</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="footer-col footer-link footer-link-2">
                     <div class="footer-widget">
-                        <h4> Account </h4>
+                        <h4> Location </h4>
                         <ul>
-                            <li><a href="product-list.html">Products</a></li>
-                            <li><a href="product.html">Categories</a></li>
-                            <li><a href="cart.html">My Cart</a></li>
-                            <li><a href="my-account.html">My Profile</a></li>
+                            <li><a href="location">Kerala Overview</a></li>
+                            <li><a href="project_location_and_site_analysis">Project Location and Site Analysis</a></li>
+                            <li><a href="road_map">Road Map</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="footer-col footer-link footer-link-3">
                     <div class="footer-widget footer-social-links">
-                        <h4>Share</h4>
+                        <h4> Investment Opportunities </h4>
                         <ul>
-                            <li>
-                                <a href="https://www.instagram.com/">
-                                    Instagram
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.facebook.com/messenger/">
-                                    Facebook
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.twitter.com/">
-                                    Twitter
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.youtube.com/">
-                                    Youtube
-                                </a>
-                            </li>
+                            <li><a href="investment_plan">Investment Plans</a></li>
+                            <li><a href="roi_details">ROI Details</a></li>
+                            <li><a href="our_company_team">Our Company Team</a></li>
+                            <li><a href="contact_details">Contact Details</a></li>
                         </ul>
                     </div>
                 </div>
